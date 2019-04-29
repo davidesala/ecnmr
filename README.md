@@ -25,11 +25,16 @@ The script can work on all the platforms and has been tested on the following sy
 + Linux: Ubuntu 18.04
 
 ### Python Dependencies
-`ecnmr` depends on the following Python modules: re, numpy, string and argparse.
+`ecnmr` depends on the following Python modules: 
+```
+re, numpy, string and argparse.
+```
 
 # Installation Guide
 `ecnmr` only needs to be downloaded from GitHub 
+```
 git clone https://github.com/davidesala/ecnmr 
+```
 
 #Demo
 
