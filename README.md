@@ -5,7 +5,7 @@
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
 - [Demo](#Demo)
-- [Instructions](#Instructions)
+- [Instructions for use](#Instructions-for-use)
 - [Ecnmr protocol](#ecnmr-protocol)
 - [License](#license)
 
@@ -60,7 +60,7 @@ Expected run time on a normal desktop
 ```
 less than a minute
 ```
-# Instructions
+# Instructions for use
 ## Instructions for use on your data
 To run the script on your data 
 ```
