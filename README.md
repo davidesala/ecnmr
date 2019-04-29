@@ -39,7 +39,7 @@ The script can work on all the platforms and has been tested on the following sy
 git clone https://github.com/davidesala/ecnmr 
 ```
 # Ecnmr protocol
-![Ecnmr protocol]
+https://github.com/davidesala/ecnmr/blob/master/protocol.png
 
 # Demo
 Detailed instructions to run `ecnmr.py` can be found typing
