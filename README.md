@@ -17,7 +17,7 @@
 `ecnmr` package requires only a standard computer with enough RAM to support the in-memory operations.
 
 ## Software requirements
-`ecnmr` requires python 2.7 and Naccess. Naccess is a stand alone program that calculates the accessible area of a molecule from a PDB (Protein Data Bank) format file. It can be downloaded for free for researchers at academic and  non profit-making institutions at http://wolf.bms.umist.ac.uk/naccess/
+`ecnmr` requires python2.7 and Naccess. Naccess is a stand alone program that calculates the accessible area of a molecule from a PDB (Protein Data Bank) format file. It can be downloaded for free for researchers at academic and  non profit-making institutions at http://wolf.bms.umist.ac.uk/naccess/
 
 ### OS Requirements
 The script can work on all the platforms and has been tested on the following systems:
@@ -26,3 +26,11 @@ The script can work on all the platforms and has been tested on the following sy
 
 ### Python Dependencies
 `ecnmr` depends on the following Python modules: re, numpy, string and argparse.
+
+# Installation Guide
+`ecnmr` only needs to be downloaded from GitHub 
+git clone https://github.com/davidesala/ecnmr 
+
+#Demo
+
+
