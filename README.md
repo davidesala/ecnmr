@@ -2,9 +2,9 @@
 `ecnmr` is a python script that exploits evolutionary couplings to extract interface residues from NMR-derived ambiguous contacts 
 
 - [Overview](#overview)
-- [Documentation](#documentation)
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
+- [Ecnmr protocol](#Ecnmr protocol)
 - [Setting up the development environment](#setting-up-the-development-environment)
 - [License](#license)
 - [Issues](https://github.com/neurodata/mgcpy/issues)
@@ -27,7 +27,10 @@ The script can work on all the platforms and has been tested on the following sy
 ### Python Dependencies
 `ecnmr` depends on the following Python modules: 
 ```
-re, numpy, string and argparse.
+- re 
+- numpy 
+- string
+- argparse
 ```
 
 # Installation Guide
@@ -35,7 +38,44 @@ re, numpy, string and argparse.
 ```
 git clone https://github.com/davidesala/ecnmr 
 ```
+# Ecnmr protocol
 
-#Demo
 
-
+# Demo
+Detailed instructions to run `ecnmr.py` can be found typing
+```
+python ecnmr.py -h
+```
+expected output
+```
+List of matched interface residues:
+Res1
+Res2
+Res3
+...
+...
+Percentage of solvent accessible area represented by the list of residues:
+###%
+```
+Expected run time on a normal desktop
+```
+less than a minute
+```
+# Instructions for use on your data
+To run the script on your data 
+```
+python ecnmr.py [-h] -m PDBFILE -l ECFILE -e CYANAFILE -s NACCESSFILE [-d DIST_VALUE] [-p PROB_VALUE]
+```
+# Reproduction instructions
+To reproduce the results reported in the manuscript on the L-asparaginase II type
+```
+python ecnmr.py -m '6EOK.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon.rr.txt' -l 'respre.rr.txt' -e 'ss.upl' -s '6EOK.rsa' -d 10.0 -p 0.3
+```
+To reproduce the results reported in the manuscript on the Sod1 (run1) type
+```
+python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon.rr.txt' -l 'respre.rr.txt' -e 'ss.upl' -s '3ECU.rsa' -d 10.0 -p 0.3
+```
+To reproduce the results reported in the manuscript on the Sod1 (run2) type 
+```
+python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon.rr.txt' -l 'respre.rr.txt' -e 'sol.upl' -s '3ECU.rsa' -d 13.0 -p 0.3
+```
