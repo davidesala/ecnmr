@@ -45,7 +45,7 @@ Detailed instructions to run `ecnmr.py` can be found typing
 ```
 python ecnmr.py -h
 ```
-expected output
+Expected output
 ```
 List of matched interface residues:
 Res1
@@ -84,4 +84,4 @@ python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon
 
 # License
 
-This project is covered under the **Apache 2.0 License**.
+This project is covered under the **MIT License**.
