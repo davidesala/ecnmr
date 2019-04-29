@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
-- [Ecnmr protocol](#ecnmr protocol)
+- [Ecnmr protocol](#ecnmr-protocol)
 - [Setting up the development environment](#setting-up-the-development-environment)
 - [License](#license)
 - [Issues](https://github.com/neurodata/mgcpy/issues)
@@ -39,7 +39,7 @@ The script can work on all the platforms and has been tested on the following sy
 git clone https://github.com/davidesala/ecnmr 
 ```
 # Ecnmr protocol
-![Ecnmr protocol](https://raw.githubusercontent.com/davidesala/ecnmr/protocol.png)
+![Ecnmr protocol]
 
 # Demo
 Detailed instructions to run `ecnmr.py` can be found typing
