@@ -38,8 +38,6 @@ The script can work on all the platforms and has been tested on the following sy
 ```
 git clone https://github.com/davidesala/ecnmr 
 ```
-# Ecnmr protocol
-https://github.com/davidesala/ecnmr/blob/master/protocol.png
 
 # Demo
 Detailed instructions to run `ecnmr.py` can be found typing
@@ -79,3 +77,5 @@ To reproduce the results reported in the manuscript on the Sod1 (run2) type
 ```
 python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon.rr.txt' -l 'respre.rr.txt' -e 'sol.upl' -s '3ECU.rsa' -d 13.0 -p 0.3
 ```
+# Ecnmr protocol
+![Ecnmr protocol](https://github.com/davidesala/ecnmr/blob/master/protocol.png)
