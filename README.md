@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
 - [Installation Guide](#installation-guide)
-- [Ecnmr protocol](#Ecnmr protocol)
+- [Ecnmr protocol](#ecnmr protocol)
 - [Setting up the development environment](#setting-up-the-development-environment)
 - [License](#license)
 - [Issues](https://github.com/neurodata/mgcpy/issues)
