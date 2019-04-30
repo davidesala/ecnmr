@@ -41,7 +41,7 @@ git clone https://github.com/davidesala/ecnmr
 ```
 
 # Demo
-Detailed instructions to run `ecnmr.py` can be found typing
+Detailed instructions to run `ecnmr.py` can be obtained by typing
 ```
 python ecnmr.py -h
 ```
