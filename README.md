@@ -1,5 +1,5 @@
 # ecnmr
-`ecnmr` is a python script that exploits evolutionary couplings to extract interface residues from NMR-derived ambiguous contacts 
+`ecnmr` is a python script that exploits evolutionary couplings to extract interface residues in protein homo-multimers from NMR-derived ambiguous contact lists 
 
 - [Overview](#overview)
 - [System Requirements](#system-requirements)
@@ -11,14 +11,14 @@
 
 
 # Overview
-``ecnmr`` aims to extract a list of interface residues that can be provided as ambiguous interaction restraints in protein-protein docking. Four input files are needed: the PDB of the monomeric protein, one or more evolutionary couplings list, the cyana NMR-derived abiguous contacts list and the naccess rsa file with the per-residue solvent accessibility of the monomeric protein. Two parameters are tunable: a distance cutoff above with false-positive inter-monomeric contacts are ruled out and a probability cutoff below with the ECs are not taken in account. The script works on all the platforms supporting python2.7 and can be downloaded from GitHub.
+``ecnmr`` aims to extract a list of interface residues that can be provided as ambiguous interaction restraints in protein-protein docking. Four input files are needed: the PDB file of the monomeric protein, one (or more) lists of evolutionary couplings (ECs), the list of NMR-derived ambiguous contacts in CYANA format and the naccess rsa file with the per-residue solvent accessibility of the monomeric protein. There are two tunable parameters: a distance cutoff below which intra-monomeric contacts are removed and a probability cutoff below with the ECs are not taken in account. The script works on all the platforms supporting python2.7 and can be downloaded from GitHub.
 
 # System requirements 
 ## Hardware requirements
-`ecnmr` package requires only a standard computer with enough RAM to support the in-memory operations.
+The `ecnmr` package requires only a standard computer with enough RAM to support the in-memory operations.
 
 ## Software requirements
-`ecnmr` requires python2.7 and Naccess. Naccess is a stand alone program that calculates the accessible area of a molecule from a PDB (Protein Data Bank) format file. It can be downloaded for free for researchers at academic and  non profit-making institutions at http://wolf.bms.umist.ac.uk/naccess/
+`ecnmr` requires python2.7 and Naccess. Naccess is a stand alone program that calculates the accessible area of a molecule from a PDB file. It can be downloaded for free by researchers at academic and non profit-making institutions from http://wolf.bms.umist.ac.uk/naccess/
 
 ### OS Requirements
 The script can work on all the platforms and has been tested on the following systems:
@@ -35,7 +35,7 @@ The script can work on all the platforms and has been tested on the following sy
 ```
 
 # Installation Guide
-`ecnmr` only needs to be downloaded from GitHub 
+The stand-alone `ecnmr` script can be downloaded from GitHub 
 ```
 git clone https://github.com/davidesala/ecnmr 
 ```
