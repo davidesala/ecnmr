@@ -1,0 +1,1495 @@
+112 ILE  CG1   137 THR  CB      3.36 #SUP  0.40
+ 81 VAL  CG1   137 THR  CB      0.00 #SUP  0.46
+103 VAL  CG1   137 THR  CB      0.00 #SUP  0.25
+ 81 VAL  CG1   116 THR  CB      0.00 #SUP  0.41
+  6 ALA  CB    137 THR  CB      0.00 #SUP  0.02
+ 75 LYS  CG    137 THR  CB      0.00 #SUP  0.02
+ 54 THR  CG2   137 THR  CB      0.00 #SUP  0.02
+ 91 LYS  CG    137 THR  CB      0.00 #SUP  0.02
+ 81 VAL  CA    137 THR  CB      3.96 #SUP  0.62
+ 81 VAL  CA    116 THR  CB      0.00 #SUP  0.46
+ 66 PRO  CA    137 THR  CB      4.11 #SUP  1.84
+ 25 SER  CB    137 THR  CB      0.00 #SUP  0.48
+ 66 PRO  CA    116 THR  CB      0.00 #SUP  0.64
+ 25 SER  CB    116 THR  CB      0.00 #SUP  0.12
+111 SER  CB    137 THR  CB      0.00 #SUP  0.02
+137 THR  CB    142 SER  CB      0.00 #SUP  0.02
+116 THR  CA    116 THR  CB      2.40 #SUP  1.00
+116 THR  CB    116 THR  CG2     2.40 #SUP  1.00
+  2 THR  CB     81 VAL  CA      4.21 #SUP  0.75
+  2 THR  CB     81 VAL  CG1     3.94 #SUP  0.75
+  2 THR  CB     75 LYS  CG      0.00 #SUP  0.02
+  2 THR  CB    112 ILE  CG1     0.00 #SUP  0.02
+  2 THR  CB      6 ALA  CB      0.00 #SUP  0.02
+  2 THR  CB    103 VAL  CG1     0.00 #SUP  0.02
+  2 THR  CB     91 LYS  CG      0.00 #SUP  0.02
+  2 THR  CB     54 THR  CG2     0.00 #SUP  0.02
+  2 THR  CB      4 ALA  CB      0.00 #SUP  0.02
+  2 THR  CB     42 LEU  CD2     0.00 #SUP  0.02
+  2 THR  CB      8 LEU  CD1     0.00 #SUP  0.02
+  2 THR  CB     81 VAL  CA      4.24 #SUP  0.75
+ 81 VAL  CA    136 LYS  CA      3.35 #SUP  0.46
+ 81 VAL  CA     87 VAL  CA      0.00 #SUP  0.02
+ 81 VAL  CA    121 GLU  CA      0.00 #SUP  0.02
+ 81 VAL  CA    102 SER  CA      0.00 #SUP  0.02
+ 23 LYS  CA     81 VAL  CA      0.00 #SUP  0.02
+ 77 GLU  CA     81 VAL  CA      0.00 #SUP  0.02
+ 81 VAL  CA    132 GLU  CA      0.00 #SUP  0.02
+ 81 VAL  CA    133 GLU  CA      0.00 #SUP  0.02
+ 81 VAL  CA     91 LYS  CA      0.00 #SUP  0.02
+ 68 SER  CA     81 VAL  CA      0.00 #SUP  0.02
+ 23 LYS  CB     58 THR  CA      3.69 #SUP  1.04
+ 58 THR  CA    121 GLU  CB      0.00 #SUP  0.34
+ 58 THR  CA     97 VAL  CB      0.00 #SUP  0.02
+ 15 GLN  CG     58 THR  CA      0.00 #SUP  0.02
+ 58 THR  CA    100 GLU  CB      0.00 #SUP  0.02
+ 58 THR  CA    122 LYS  CG      3.60 #SUP  1.36
+ 23 LYS  CG     58 THR  CA      0.00 #SUP  1.04
+ 36 LYS  CG     58 THR  CA      0.00 #SUP  0.53
+ 58 THR  CA    136 LYS  CG      0.00 #SUP  0.42
+ 62 PRO  CB    107 SER  CB      3.58 #SUP  0.75
+ 62 PRO  CB    105 SER  CB      0.00 #SUP  0.75
+107 SER  CB    148 VAL  CB      0.00 #SUP  0.02
+ 62 PRO  CD    107 SER  CB      4.06 #SUP  0.75
+ 62 PRO  CD    105 SER  CB      0.00 #SUP  0.75
+ 89 ALA  CA    107 SER  CB      0.00 #SUP  0.02
+ 34 SER  CB     35 ILE  CA      4.88 #SUP  1.00
+ 34 SER  CB     35 ILE  CA      4.69 #SUP  1.00
+ 35 ILE  CA    103 VAL  CA      0.00 #SUP  0.99
+  7 VAL  CB    103 VAL  CA      3.71 #SUP  1.40
+ 28 PRO  CB    103 VAL  CA      0.00 #SUP  0.62
+103 VAL  CA    103 VAL  CB      2.40 #SUP  2.57
+ 66 PRO  CB     66 PRO  CA      0.00 #SUP  1.50
+ 94 VAL  CB    103 VAL  CA      0.00 #SUP  0.29
+  6 ALA  CA    103 VAL  CA      3.97 #SUP  2.03
+ 28 PRO  CD    103 VAL  CA      0.00 #SUP  1.25
+ 95 ALA  CA    103 VAL  CA      0.00 #SUP  0.29
+  6 ALA  CA     66 PRO  CA      0.00 #SUP  0.13
+103 VAL  CA    104 ILE  CG2     4.06 #SUP  2.66
+ 35 ILE  CG2   103 VAL  CA      0.00 #SUP  1.21
+103 VAL  CA    149 ILE  CG2     0.00 #SUP  0.50
+ 34 SER  CB     35 ILE  CG2     0.00 #SUP  2.07
+  5 VAL  CG2   103 VAL  CA      0.00 #SUP  0.21
+103 VAL  CA    104 ILE  CD1     4.59 #SUP  1.66
+ 35 ILE  CD1   103 VAL  CA      0.00 #SUP  1.20
+103 VAL  CA    149 ILE  CD1     0.00 #SUP  0.74
+ 17 ILE  CD1   103 VAL  CA      0.00 #SUP  0.32
+ 34 SER  CB     35 ILE  CD1     0.00 #SUP  1.63
+ 30 LYS  CD     66 PRO  CA      4.06 #SUP  1.69
+ 66 PRO  CA    136 LYS  CD      0.00 #SUP  0.83
+  8 LEU  CG    103 VAL  CA      0.00 #SUP  0.41
+ 66 PRO  CA    133 GLU  CB      0.00 #SUP  0.32
+ 36 LYS  CD    103 VAL  CA      0.00 #SUP  0.27
+ 66 PRO  CA    122 LYS  CD      0.00 #SUP  0.32
+103 VAL  CA    149 ILE  CG1     0.00 #SUP  0.24
+ 66 PRO  CA     91 LYS  CD      0.00 #SUP  0.39
+  8 LEU  CG     66 PRO  CA      0.00 #SUP  0.13
+  9 LYS  CD    103 VAL  CA      0.00 #SUP  0.12
+103 VAL  CA    136 LYS  CD      0.00 #SUP  0.08
+ 66 PRO  CA    137 THR  CB      4.24 #SUP  1.84
+ 66 PRO  CA    116 THR  CB      0.00 #SUP  0.64
+ 25 SER  CB    137 THR  CB      0.00 #SUP  0.48
+ 66 PRO  CG     66 PRO  CA      2.40 #SUP  2.63
+ 38 LEU  CD1    66 PRO  CA      0.00 #SUP  0.75
+ 66 PRO  CA     67 LEU  CG      0.00 #SUP  0.56
+ 65 ASN  CA     66 PRO  CA      3.83 #SUP  2.71
+ 66 PRO  CA     84 LEU  CB      3.61 #SUP  0.36
+ 66 PRO  CA    136 LYS  CE      0.00 #SUP  0.42
+ 66 PRO  CA     90 ASP  CB      0.00 #SUP  0.12
+ 66 PRO  CA    122 LYS  CE      0.00 #SUP  0.32
+ 66 PRO  CA     92 ASP  CB      0.00 #SUP  0.12
+ 25 SER  CB    136 LYS  CE      0.00 #SUP  0.15
+142 SER  CB    144 LEU  CB      0.00 #SUP  0.75
+ 66 PRO  CA     70 LYS  CE      0.00 #SUP  0.02
+  3 LYS  CE     66 PRO  CA      0.00 #SUP  0.02
+ 66 PRO  CA     91 LYS  CE      0.00 #SUP  0.02
+ 66 PRO  CA     76 ASP  CB      0.00 #SUP  0.02
+ 66 PRO  CA    137 THR  CG2     4.02 #SUP  0.88
+111 SER  CB    137 THR  CG2     0.00 #SUP  0.41
+ 25 SER  CB     31 VAL  CG1     0.00 #SUP  0.11
+  7 VAL  CG2    66 PRO  CA      0.00 #SUP  0.54
+  7 VAL  CG1    66 PRO  CA      0.00 #SUP  0.14
+ 31 VAL  CG1   111 SER  CB      0.00 #SUP  0.09
+ 31 VAL  CG1   142 SER  CB      0.00 #SUP  0.09
+ 66 PRO  CA     97 VAL  CG1     0.00 #SUP  0.02
+ 66 PRO  CA    126 LEU  CD2     0.00 #SUP  0.02
+ 25 SER  CB    137 THR  CG2     0.00 #SUP  0.02
+ 25 SER  CB     97 VAL  CG1     0.00 #SUP  0.02
+ 25 SER  CB    126 LEU  CD2     0.00 #SUP  0.02
+ 25 SER  CA     25 SER  CB      2.40 #SUP  1.00
+ 25 SER  CB     30 LYS  CB      3.22 #SUP  1.28
+ 30 LYS  CB    142 SER  CB      0.00 #SUP  0.28
+ 30 LYS  CB    111 SER  CB      0.00 #SUP  0.28
+ 30 LYS  CB     66 PRO  CA      0.00 #SUP  1.40
+ 66 PRO  CA    133 GLU  CG      0.00 #SUP  1.35
+ 66 PRO  CA    122 LYS  CB      0.00 #SUP  1.35
+111 SER  CB    112 ILE  CG1     3.16 #SUP  1.08
+ 25 SER  CB    117 LEU  CD2     0.00 #SUP  0.39
+ 25 SER  CB    117 LEU  CG      0.00 #SUP  0.39
+ 29 VAL  CG2   111 SER  CB      0.00 #SUP  0.09
+ 29 VAL  CG2   142 SER  CB      0.00 #SUP  0.09
+ 29 VAL  CG1   111 SER  CB      0.00 #SUP  0.09
+ 29 VAL  CG1   142 SER  CB      0.00 #SUP  0.09
+ 25 SER  CB     29 VAL  CG1     0.00 #SUP  0.11
+ 25 SER  CB     29 VAL  CG2     0.00 #SUP  0.11
+ 81 VAL  CG1   111 SER  CB      0.00 #SUP  0.02
+ 81 VAL  CG1   142 SER  CB      0.00 #SUP  0.02
+ 25 SER  CB     81 VAL  CG1     0.00 #SUP  0.02
+ 54 THR  CG2   142 SER  CB      0.00 #SUP  0.02
+ 54 THR  CG2   111 SER  CB      0.00 #SUP  0.02
+100 GLU  CA    142 SER  CB      4.37 #SUP  0.48
+100 GLU  CA    111 SER  CB      0.00 #SUP  0.48
+ 64 PHE  CA     74 PRO  CA      0.00 #SUP  0.30
+ 25 SER  CB    100 GLU  CA      0.00 #SUP  0.43
+ 64 PHE  CA    102 SER  CB      0.00 #SUP  0.31
+100 GLU  CA    102 SER  CB      0.00 #SUP  0.33
+109 ASP  CA    111 SER  CB      0.00 #SUP  0.02
+109 ASP  CA    142 SER  CB      0.00 #SUP  0.02
+111 SER  CB    144 LEU  CA      0.00 #SUP  0.02
+142 SER  CB    144 LEU  CA      0.00 #SUP  0.02
+124 ASP  CA    142 SER  CB      0.00 #SUP  0.02
+111 SER  CB    124 ASP  CA      0.00 #SUP  0.02
+ 32 TRP  CA    111 SER  CB      0.00 #SUP  0.02
+ 32 TRP  CA    142 SER  CB      0.00 #SUP  0.02
+139 ASN  CA    142 SER  CB      0.00 #SUP  0.02
+111 SER  CB    139 ASN  CA      0.00 #SUP  0.02
+ 21 GLU  CA    142 SER  CB      0.00 #SUP  0.02
+ 21 GLU  CA    111 SER  CB      0.00 #SUP  0.02
+ 64 PHE  CA    142 SER  CB      0.00 #SUP  0.02
+ 64 PHE  CA    111 SER  CB      0.00 #SUP  0.02
+102 SER  CB    103 VAL  CB      3.87 #SUP  1.37
+ 24 GLU  CB     25 SER  CB      0.00 #SUP  0.75
+ 74 PRO  CA     91 LYS  CB      0.00 #SUP  0.02
+ 22 GLN  CB     74 PRO  CA      0.00 #SUP  0.02
+ 24 GLU  CB     74 PRO  CA      0.00 #SUP  0.02
+ 74 PRO  CA     87 VAL  CB      0.00 #SUP  0.02
+ 32 TRP  CB     74 PRO  CA      0.00 #SUP  0.02
+ 64 PHE  CB     74 PRO  CA      3.53 #SUP  0.74
+ 64 PHE  CB    151 ILE  CA      0.00 #SUP  0.75
+ 64 PHE  CB    102 SER  CB      0.00 #SUP  0.10
+ 65 ASN  CB    151 ILE  CA      0.00 #SUP  0.24
+151 ILE  CA    151 ILE  CG1     2.52 #SUP  1.00
+151 ILE  CA    153 GLN  CB      0.00 #SUP  0.62
+123 ALA  CB    151 ILE  CA      3.45 #SUP  1.50
+ 74 PRO  CA    123 ALA  CB      0.00 #SUP  0.60
+ 98 SER  CB    123 ALA  CB      0.00 #SUP  0.08
+102 SER  CB    123 ALA  CB      0.00 #SUP  0.02
+102 SER  CB    103 VAL  CA      4.89 #SUP  1.29
+  6 ALA  CA    102 SER  CB      4.72 #SUP  0.68
+ 28 PRO  CD    102 SER  CB      0.00 #SUP  0.62
+ 57 CYS  CA    151 ILE  CA      0.00 #SUP  0.02
+  4 ALA  CA    151 ILE  CA      0.00 #SUP  0.02
+ 57 CYS  CA    102 SER  CB      0.00 #SUP  0.02
+  4 ALA  CA    102 SER  CB      0.00 #SUP  0.02
+131 ASN  CA    151 ILE  CA      0.00 #SUP  0.02
+102 SER  CB    131 ASN  CA      0.00 #SUP  0.02
+ 57 CYS  CA     74 PRO  CA      0.00 #SUP  0.02
+  4 ALA  CA     74 PRO  CA      0.00 #SUP  0.02
+ 57 CYS  CA     98 SER  CB      0.00 #SUP  0.02
+  4 ALA  CA     98 SER  CB      0.00 #SUP  0.02
+ 74 PRO  CA    131 ASN  CA      0.00 #SUP  0.02
+ 98 SER  CB    131 ASN  CA      0.00 #SUP  0.02
+ 98 SER  CB     99 ILE  CA      4.13 #SUP  1.00
+151 ILE  CA    152 ALA  CB      4.55 #SUP  1.00
+102 SER  CB    103 VAL  CG2     0.00 #SUP  1.73
+148 VAL  CA    149 ILE  CB      2.40 #SUP  1.02
+149 ILE  CA    149 ILE  CB      0.00 #SUP  2.96
+116 THR  CA    116 THR  CB      2.40 #SUP  1.00
+ 13 PRO  CB     14 VAL  CA      2.40 #SUP  1.65
+ 13 PRO  CB     13 PRO  CA      0.00 #SUP  1.27
+ 28 PRO  CB     28 PRO  CA      0.00 #SUP  1.27
+ 28 PRO  CA     29 VAL  CB      0.00 #SUP  1.00
+149 ILE  CA    149 ILE  CG2     2.40 #SUP  2.96
+104 ILE  CA    104 ILE  CG2     0.00 #SUP  3.77
+148 VAL  CA    149 ILE  CG2     0.00 #SUP  2.61
+ 20 PHE  CB    149 ILE  CA      3.76 #SUP  1.74
+ 20 PHE  CB    148 VAL  CA      0.00 #SUP  1.37
+ 20 PHE  CB    104 ILE  CA      0.00 #SUP  0.83
+ 14 VAL  CA     20 PHE  CB      0.00 #SUP  0.25
+ 13 PRO  CA     20 PHE  CB      0.00 #SUP  0.25
+ 20 PHE  CB     62 PRO  CA      0.00 #SUP  0.32
+104 ILE  CA    104 ILE  CG1     2.40 #SUP  1.38
+116 THR  CA    116 THR  CG2     0.00 #SUP  1.00
+ 14 VAL  CA     14 VAL  CG1     2.47 #SUP  1.00
+116 THR  CA    117 LEU  CG      0.00 #SUP  2.68
+116 THR  CA    117 LEU  CD2     0.00 #SUP  2.68
+ 13 PRO  CA     14 VAL  CG1     0.00 #SUP  2.31
+ 28 PRO  CA     29 VAL  CG1     0.00 #SUP  2.31
+ 28 PRO  CA     29 VAL  CG2     0.00 #SUP  2.31
+ 66 PRO  CD    149 ILE  CA      4.13 #SUP  0.70
+ 66 PRO  CD    104 ILE  CA      0.00 #SUP  0.38
+ 66 PRO  CD    135 THR  CA      0.00 #SUP  0.43
+ 66 PRO  CD    134 SER  CB      0.00 #SUP  0.24
+ 62 PRO  CA     66 PRO  CD      0.00 #SUP  0.02
+ 13 PRO  CA     66 PRO  CD      0.00 #SUP  0.02
+ 14 VAL  CA     66 PRO  CD      0.00 #SUP  0.02
+ 14 VAL  CA     14 VAL  CB      2.40 #SUP  2.31
+ 13 PRO  CA     14 VAL  CB      0.00 #SUP  1.27
+134 SER  CA    134 SER  CB      2.40 #SUP  1.21
+134 SER  CA    135 THR  CA      0.00 #SUP  1.15
+133 GLU  CG    134 SER  CB      3.86 #SUP  1.29
+133 GLU  CG    135 THR  CA      0.00 #SUP  1.13
+ 25 SER  CA     25 SER  CB      2.40 #SUP  1.00
+ 25 SER  CA     25 SER  CB      2.40 #SUP  1.00
+ 59 SER  CB    122 LYS  CG      3.54 #SUP  0.75
+ 23 LYS  CG     59 SER  CB      0.00 #SUP  0.62
+135 THR  CA    136 LYS  CG      0.00 #SUP  0.25
+ 97 VAL  CA    122 LYS  CG      0.00 #SUP  0.02
+ 97 VAL  CA    136 LYS  CG      0.00 #SUP  0.02
+ 59 SER  CB    136 LYS  CG      0.00 #SUP  0.02
+ 36 LYS  CG     97 VAL  CA      0.00 #SUP  0.02
+ 36 LYS  CG     59 SER  CB      0.00 #SUP  0.02
+118 VAL  CA    118 VAL  CB      2.40 #SUP  2.59
+118 VAL  CA    119 VAL  CB      0.00 #SUP  1.92
+ 17 ILE  CA     18 ILE  CB      4.74 #SUP  1.93
+ 26 ASN  CB    113 ILE  CA      0.00 #SUP  0.94
+117 LEU  CD1   118 VAL  CA      4.17 #SUP  1.62
+ 17 ILE  CA     18 ILE  CG1     0.00 #SUP  1.93
+  2 THR  CA      3 LYS  CG      0.00 #SUP  0.24
+118 VAL  CA    118 VAL  CG1     2.40 #SUP  1.57
+  2 THR  CA      2 THR  CG2     0.00 #SUP  1.00
+118 VAL  CA    119 VAL  CG1     0.00 #SUP  1.60
+113 ILE  CA    113 ILE  CG2     2.51 #SUP  1.00
+ 38 LEU  CA     39 THR  CA      3.76 #SUP  1.00
+ 88 THR  CA     90 ASP  CA      0.00 #SUP  1.00
+ 17 ILE  CA     19 ASN  CA      0.00 #SUP  0.96
+112 ILE  CB    113 ILE  CA      4.88 #SUP  1.00
+ 20 PHE  CB     49 GLU  CA      3.75 #SUP  1.06
+  7 VAL  CA     20 PHE  CB      0.00 #SUP  0.91
+ 20 PHE  CB     47 VAL  CA      0.00 #SUP  0.90
+ 20 PHE  CB     94 VAL  CA      0.00 #SUP  0.88
+ 48 HIS  CB     49 GLU  CA      2.40 #SUP  1.00
+ 47 VAL  CA     48 HIS  CB      0.00 #SUP  1.00
+ 49 GLU  CA     49 GLU  CB      0.00 #SUP  1.00
+  6 ALA  CB      7 VAL  CA      4.57 #SUP  1.00
+112 ILE  CG1   113 ILE  CA      0.00 #SUP  2.42
+ 38 LEU  CD2    39 THR  CA      0.00 #SUP  1.93
+  7 VAL  CA      7 VAL  CG2     2.40 #SUP  1.00
+ 94 VAL  CA     94 VAL  CG2     0.00 #SUP  1.00
+ 94 VAL  CA     95 ALA  CB      0.00 #SUP  1.00
+ 88 THR  CA     89 ALA  CB      0.00 #SUP  1.00
+  7 VAL  CA    103 VAL  CA      4.41 #SUP  1.55
+ 39 THR  CA    103 VAL  CA      0.00 #SUP  0.39
+ 94 VAL  CA    103 VAL  CA      0.00 #SUP  0.02
+ 88 THR  CA    103 VAL  CA      0.00 #SUP  0.02
+ 49 GLU  CA    103 VAL  CA      0.00 #SUP  0.02
+ 47 VAL  CA    103 VAL  CA      0.00 #SUP  0.02
+134 SER  CA    134 SER  CB      2.40 #SUP  1.21
+134 SER  CA    135 THR  CA      0.00 #SUP  1.15
+ 18 ILE  CG2    29 VAL  CA      3.95 #SUP  1.97
+ 18 ILE  CG2    31 VAL  CA      0.00 #SUP  0.75
+ 29 VAL  CA     30 LYS  CB      4.24 #SUP  3.17
+ 30 LYS  CB     31 VAL  CA      0.00 #SUP  1.00
+133 GLU  CG    134 SER  CA      0.00 #SUP  2.38
+ 29 VAL  CA     29 VAL  CG2     2.40 #SUP  1.84
+ 29 VAL  CA     29 VAL  CG1     0.00 #SUP  1.84
+ 29 VAL  CG2    31 VAL  CA      0.00 #SUP  0.91
+ 29 VAL  CG1    31 VAL  CA      0.00 #SUP  0.91
+ 15 GLN  CB    137 THR  CA      3.71 #SUP  0.59
+ 15 GLN  CB    112 ILE  CA      0.00 #SUP  0.02
+  5 VAL  CA     15 GLN  CB      0.00 #SUP  0.02
+  5 VAL  CA      5 VAL  CB      2.40 #SUP  3.31
+136 LYS  CB    137 THR  CA      0.00 #SUP  1.00
+ 98 SER  CA     99 ILE  CA      3.39 #SUP  1.00
+111 SER  CA    112 ILE  CA      0.00 #SUP  1.00
+ 98 SER  CB     99 ILE  CA      4.88 #SUP  1.00
+112 ILE  CA    112 ILE  CG1     2.50 #SUP  2.53
+  4 ALA  CB      5 VAL  CA      0.00 #SUP  1.22
+  5 VAL  CA      6 ALA  CB      0.00 #SUP  1.00
+  5 VAL  CA      5 VAL  CG1     2.52 #SUP  1.60
+ 34 SER  CB     35 ILE  CA      4.38 #SUP  1.00
+ 35 ILE  CA    103 VAL  CA      0.00 #SUP  0.99
+  5 VAL  CA    103 VAL  CA      0.00 #SUP  0.68
+ 99 ILE  CA    103 VAL  CA      0.00 #SUP  0.39
+ 86 ASN  CB     87 VAL  CA      4.71 #SUP  1.00
+ 77 GLU  CA     77 GLU  CG      2.55 #SUP  1.00
+ 77 GLU  CA     78 GLU  CG      0.00 #SUP  0.32
+109 ASP  CB    111 SER  CA      3.68 #SUP  1.93
+ 53 ASN  CB    111 SER  CA      0.00 #SUP  0.02
+ 53 ASN  CB     59 SER  CA      0.00 #SUP  0.02
+ 53 ASN  CB     98 SER  CA      0.00 #SUP  0.02
+ 50 PHE  CB    111 SER  CA      0.00 #SUP  0.02
+ 50 PHE  CB     59 SER  CA      0.00 #SUP  0.02
+ 50 PHE  CB     98 SER  CA      0.00 #SUP  0.02
+ 40 GLU  CA     53 ASN  CB      0.00 #SUP  0.02
+ 40 GLU  CA     50 PHE  CB      0.00 #SUP  0.02
+ 53 ASN  CB    107 SER  CA      0.00 #SUP  0.02
+110 HIS  CB    111 SER  CA      4.61 #SUP  1.00
+ 98 SER  CA     99 ILE  CG1     0.00 #SUP  0.75
+ 40 GLU  CA    117 LEU  CG      4.25 #SUP  0.55
+ 40 GLU  CA    117 LEU  CD2     0.00 #SUP  0.55
+ 39 THR  CG2    40 GLU  CA      0.00 #SUP  0.24
+ 38 LEU  CD2    40 GLU  CA      0.00 #SUP  0.12
+111 SER  CA    123 ALA  CB      3.60 #SUP  1.90
+ 98 SER  CA    123 ALA  CB      0.00 #SUP  1.22
+ 40 GLU  CA    123 ALA  CB      0.00 #SUP  0.50
+ 59 SER  CA    123 ALA  CB      0.00 #SUP  0.35
+ 40 GLU  CA    117 LEU  CB      4.12 #SUP  1.24
+ 40 GLU  CA     42 LEU  CB      0.00 #SUP  0.75
+ 83 ASP  CA     83 ASP  CB      2.40 #SUP  1.00
+ 11 ASP  CB    107 SER  CA      0.00 #SUP  0.25
+ 19 ASN  CB    107 SER  CA      0.00 #SUP  0.25
+ 83 ASP  CB    107 SER  CA      0.00 #SUP  0.25
+ 40 GLU  CA     40 GLU  CB      2.40 #SUP  1.00
+153 GLN  CA    153 GLN  CB      0.00 #SUP  1.00
+ 64 PHE  CB    153 GLN  CA      4.11 #SUP  0.85
+ 26 ASN  CB     59 SER  CA      0.00 #SUP  0.35
+ 18 ILE  CB    107 SER  CA      0.00 #SUP  0.02
+ 18 ILE  CB     83 ASP  CA      0.00 #SUP  0.02
+ 18 ILE  CB    153 GLN  CA      0.00 #SUP  0.02
+ 18 ILE  CB     40 GLU  CA      0.00 #SUP  0.02
+ 26 ASN  CB    107 SER  CA      0.00 #SUP  0.02
+ 26 ASN  CB     83 ASP  CA      0.00 #SUP  0.02
+ 26 ASN  CB    153 GLN  CA      0.00 #SUP  0.02
+ 26 ASN  CB     40 GLU  CA      0.00 #SUP  0.02
+ 64 PHE  CB    107 SER  CA      0.00 #SUP  0.02
+ 64 PHE  CB     83 ASP  CA      0.00 #SUP  0.02
+ 40 GLU  CA     64 PHE  CB      0.00 #SUP  0.02
+ 42 LEU  CG     83 ASP  CA      4.29 #SUP  0.75
+ 42 LEU  CG    153 GLN  CA      0.00 #SUP  0.75
+ 42 LEU  CG    107 SER  CA      0.00 #SUP  0.75
+119 VAL  CA    119 VAL  CB      2.40 #SUP  2.13
+118 VAL  CB    119 VAL  CA      0.00 #SUP  1.55
+153 GLN  CA    153 GLN  CG      0.00 #SUP  1.00
+ 29 VAL  CB     34 SER  CA      3.85 #SUP  0.57
+ 31 VAL  CB     34 SER  CA      0.00 #SUP  0.57
+ 28 PRO  CB     34 SER  CA      0.00 #SUP  0.14
+ 13 PRO  CB     34 SER  CA      0.00 #SUP  0.02
+ 34 SER  CA    128 LYS  CB      0.00 #SUP  0.02
+ 45 PHE  CA    100 GLU  CB      0.00 #SUP  0.10
+ 18 ILE  CA     18 ILE  CB      2.40 #SUP  1.93
+ 64 PHE  CA     64 PHE  CB      0.00 #SUP  1.00
+ 21 GLU  CA     21 GLU  CB      2.40 #SUP  1.50
+ 21 GLU  CB     50 PHE  CA      0.00 #SUP  0.28
+ 21 GLU  CA     21 GLU  CB      2.40 #SUP  1.50
+ 21 GLU  CB     50 PHE  CA      0.00 #SUP  0.28
+124 ASP  CA    125 ASP  CB      2.40 #SUP  1.50
+109 ASP  CA    109 ASP  CB      0.00 #SUP  1.44
+ 64 PHE  CA     65 ASN  CB      0.00 #SUP  1.00
+ 64 PHE  CA     64 PHE  CB      0.00 #SUP  1.00
+ 21 GLU  CA     74 PRO  CD      3.64 #SUP  0.75
+ 74 PRO  CD    109 ASP  CA      0.00 #SUP  0.02
+ 74 PRO  CD    144 LEU  CA      0.00 #SUP  0.02
+ 74 PRO  CD    124 ASP  CA      0.00 #SUP  0.02
+ 32 TRP  CA     74 PRO  CD      0.00 #SUP  0.02
+ 74 PRO  CD    139 ASN  CA      0.00 #SUP  0.02
+ 64 PHE  CA     74 PRO  CD      0.00 #SUP  0.02
+ 55 ALA  CA    109 ASP  CA      0.00 #SUP  0.02
+ 55 ALA  CA    144 LEU  CA      0.00 #SUP  0.02
+ 55 ALA  CA    124 ASP  CA      0.00 #SUP  0.02
+ 32 TRP  CA     55 ALA  CA      0.00 #SUP  0.02
+ 21 GLU  CA     55 ALA  CA      0.00 #SUP  0.02
+ 55 ALA  CA    139 ASN  CA      0.00 #SUP  0.02
+ 55 ALA  CA     64 PHE  CA      0.00 #SUP  0.02
+ 50 PHE  CA     74 PRO  CD      0.00 #SUP  0.02
+100 GLU  CA    101 ASP  CB      4.80 #SUP  1.21
+ 20 PHE  CA     20 PHE  CB      2.40 #SUP  1.24
+ 20 PHE  CB     48 HIS  CA      0.00 #SUP  2.36
+ 20 PHE  CB     75 LYS  CA      0.00 #SUP  1.34
+ 20 PHE  CB     92 ASP  CA      0.00 #SUP  0.82
+  3 LYS  CA     20 PHE  CB      0.00 #SUP  0.37
+  9 LYS  CA     20 PHE  CB      0.00 #SUP  0.11
+ 30 LYS  CA     34 SER  CA      4.40 #SUP  0.78
+ 34 SER  CA    128 LYS  CA      0.00 #SUP  0.35
+ 34 SER  CA    126 LEU  CA      0.00 #SUP  0.02
+  9 LYS  CA     34 SER  CA      0.00 #SUP  0.02
+ 34 SER  CA     48 HIS  CA      0.00 #SUP  0.02
+ 34 SER  CA    100 GLU  CA      0.00 #SUP  0.02
+ 42 LEU  CA     42 LEU  CB      2.40 #SUP  1.93
+ 22 GLN  CA     66 PRO  CD      4.86 #SUP  0.53
+ 20 PHE  CA     66 PRO  CD      0.00 #SUP  0.53
+ 48 HIS  CA     66 PRO  CD      0.00 #SUP  0.09
+ 66 PRO  CD     78 GLU  CA      0.00 #SUP  0.02
+ 66 PRO  CD     71 HIS  CA      0.00 #SUP  0.02
+ 66 PRO  CD    105 SER  CA      0.00 #SUP  0.02
+ 66 PRO  CD     79 ARG  CA      0.00 #SUP  0.02
+ 42 LEU  CA     66 PRO  CD      0.00 #SUP  0.02
+ 66 PRO  CD     75 LYS  CA      0.00 #SUP  0.02
+ 66 PRO  CD     92 ASP  CA      0.00 #SUP  0.02
+ 66 PRO  CD     70 LYS  CA      0.00 #SUP  0.02
+  3 LYS  CA     66 PRO  CD      0.00 #SUP  0.02
+ 20 PHE  CA     21 GLU  CB      2.40 #SUP  1.41
+ 21 GLU  CB     22 GLN  CA      0.00 #SUP  1.00
+ 30 LYS  CA     30 LYS  CB      0.00 #SUP  2.68
+146 CYS  CA    146 CYS  CB      2.40 #SUP  1.00
+101 ASP  CA    101 ASP  CB      0.00 #SUP  1.21
+ 36 LYS  CA     36 LYS  CG      2.40 #SUP  1.00
+122 LYS  CA    122 LYS  CG      0.00 #SUP  1.00
+101 ASP  CB    143 ARG  CA      4.47 #SUP  0.35
+101 ASP  CB    110 HIS  CA      0.00 #SUP  0.35
+143 ARG  CA    146 CYS  CB      0.00 #SUP  0.43
+101 ASP  CB    106 LEU  CA      0.00 #SUP  0.27
+ 84 LEU  CA    101 ASP  CB      0.00 #SUP  0.29
+101 ASP  CB    125 ASP  CA      0.00 #SUP  0.02
+ 60 ALA  CA    101 ASP  CB      0.00 #SUP  0.02
+124 ASP  CB    125 ASP  CA      4.13 #SUP  1.00
+143 ARG  CA    144 LEU  CB      0.00 #SUP  1.27
+ 42 LEU  CA     43 HIS  CA      3.80 #SUP  1.00
+117 LEU  CA    117 LEU  CB      2.40 #SUP  2.96
+ 86 ASN  CA     86 ASN  CB      0.00 #SUP  1.00
+ 19 ASN  CA     19 ASN  CB      2.40 #SUP  1.00
+117 LEU  CA    117 LEU  CD2     2.52 #SUP  1.93
+117 LEU  CA    117 LEU  CG      0.00 #SUP  1.93
+ 38 LEU  CA     38 LEU  CD2     0.00 #SUP  1.36
+ 38 LEU  CA     39 THR  CG2     0.00 #SUP  0.99
+ 89 ALA  CB     90 ASP  CA      4.41 #SUP  1.00
+117 LEU  CA    118 VAL  CG2     0.00 #SUP  0.71
+  7 VAL  CG2    19 ASN  CA      0.00 #SUP  0.46
+ 19 ASN  CA     94 VAL  CG2     0.00 #SUP  0.45
+ 19 ASN  CA     95 ALA  CB      0.00 #SUP  0.43
+112 ILE  CB    123 ALA  CA      4.69 #SUP  0.95
+ 21 GLU  CG     90 ASP  CA      0.00 #SUP  0.32
+ 21 GLU  CG    123 ALA  CA      0.00 #SUP  0.02
+ 90 ASP  CA    112 ILE  CB      0.00 #SUP  0.02
+123 ALA  CA    126 LEU  CB      0.00 #SUP  0.02
+ 90 ASP  CA    126 LEU  CB      0.00 #SUP  0.02
+ 21 GLU  CG     52 ASP  CA      0.00 #SUP  0.02
+ 52 ASP  CA    112 ILE  CB      0.00 #SUP  0.02
+ 52 ASP  CA    126 LEU  CB      0.00 #SUP  0.02
+ 38 LEU  CA     39 THR  CA      3.77 #SUP  1.00
+ 88 THR  CA     90 ASP  CA      0.00 #SUP  1.00
+ 19 ASN  CA     49 GLU  CA      0.00 #SUP  0.59
+ 19 ASN  CA     47 VAL  CA      0.00 #SUP  0.42
+ 30 LYS  CA     53 ASN  CA      4.13 #SUP  0.74
+ 48 HIS  CA     53 ASN  CA      0.00 #SUP  0.02
+  9 LYS  CA     53 ASN  CA      0.00 #SUP  0.02
+  3 LYS  CA     53 ASN  CA      0.00 #SUP  0.02
+ 53 ASN  CA     70 LYS  CA      0.00 #SUP  0.02
+ 20 PHE  CA     53 ASN  CA      0.00 #SUP  0.02
+ 53 ASN  CA     75 LYS  CA      0.00 #SUP  0.02
+ 53 ASN  CA     92 ASP  CA      0.00 #SUP  0.02
+ 42 LEU  CA     53 ASN  CA      0.00 #SUP  0.02
+ 22 GLN  CA     53 ASN  CA      0.00 #SUP  0.02
+ 53 ASN  CA    128 LYS  CA      0.00 #SUP  0.02
+ 53 ASN  CA     79 ARG  CA      0.00 #SUP  0.02
+ 53 ASN  CA     78 GLU  CA      0.00 #SUP  0.02
+ 53 ASN  CA    126 LEU  CA      0.00 #SUP  0.02
+ 29 VAL  CG2    53 ASN  CA      3.87 #SUP  1.74
+ 29 VAL  CG1    53 ASN  CA      0.00 #SUP  1.74
+ 53 ASN  CA     81 VAL  CG1     0.00 #SUP  0.57
+ 53 ASN  CA    135 THR  CG2     3.51 #SUP  0.72
+ 14 VAL  CG2    53 ASN  CA      0.00 #SUP  0.43
+ 53 ASN  CA     87 VAL  CG1     0.00 #SUP  0.02
+ 53 ASN  CA     81 VAL  CG2     0.00 #SUP  0.02
+ 53 ASN  CA    135 THR  CA      4.44 #SUP  1.20
+ 53 ASN  CA    134 SER  CB      0.00 #SUP  0.73
+ 14 VAL  CA     53 ASN  CA      0.00 #SUP  0.43
+ 62 PRO  CA     65 ASN  CA      0.00 #SUP  0.27
+ 13 PRO  CA     53 ASN  CA      0.00 #SUP  0.14
+ 53 ASN  CA    152 ALA  CA      3.95 #SUP  0.28
+ 28 PRO  CD     53 ASN  CA      0.00 #SUP  0.35
+  6 ALA  CA     65 ASN  CA      0.00 #SUP  0.62
+ 53 ASN  CA     95 ALA  CA      0.00 #SUP  0.02
+  6 ALA  CA     53 ASN  CA      0.00 #SUP  0.02
+ 65 ASN  CA    137 THR  CB      4.50 #SUP  0.75
+ 53 ASN  CA    137 THR  CB      0.00 #SUP  0.28
+ 53 ASN  CA    116 THR  CB      0.00 #SUP  0.02
+ 65 ASN  CA    116 THR  CB      0.00 #SUP  0.02
+137 THR  CB    145 ALA  CA      0.00 #SUP  0.02
+ 30 LYS  CD     53 ASN  CA      3.75 #SUP  0.93
+ 30 LYS  CD    145 ALA  CA      0.00 #SUP  0.67
+ 53 ASN  CA    136 LYS  CD      0.00 #SUP  0.39
+ 30 LYS  CD     65 ASN  CA      0.00 #SUP  0.46
+144 LEU  CD1   145 ALA  CA      0.00 #SUP  0.46
+ 53 ASN  CA     80 HIS  CB      0.00 #SUP  0.18
+ 65 ASN  CA    136 LYS  CD      0.00 #SUP  0.17
+ 53 ASN  CA    133 GLU  CB      0.00 #SUP  0.12
+ 65 ASN  CA     66 PRO  CA      3.83 #SUP  2.71
+ 30 LYS  CB     65 ASN  CA      3.34 #SUP  2.42
+ 30 LYS  CB     53 ASN  CA      0.00 #SUP  1.98
+ 30 LYS  CB    145 ALA  CA      0.00 #SUP  1.34
+ 65 ASN  CA    133 GLU  CG      0.00 #SUP  1.22
+ 65 ASN  CA    122 LYS  CB      0.00 #SUP  1.22
+ 53 ASN  CA    133 GLU  CG      0.00 #SUP  0.33
+145 ALA  CA    145 ALA  CB      2.40 #SUP  1.00
+ 65 ASN  CA    145 ALA  CB      0.00 #SUP  0.25
+ 65 ASN  CA     66 PRO  CG      4.17 #SUP  1.85
+ 65 ASN  CA     67 LEU  CG      0.00 #SUP  1.19
+ 28 PRO  CG     53 ASN  CA      0.00 #SUP  0.92
+ 65 ASN  CA     67 LEU  CA      4.36 #SUP  1.07
+143 ARG  CA    145 ALA  CA      0.00 #SUP  0.75
+106 LEU  CA    145 ALA  CA      0.00 #SUP  0.02
+ 84 LEU  CA    145 ALA  CA      0.00 #SUP  0.02
+ 60 ALA  CA    145 ALA  CA      0.00 #SUP  0.02
+110 HIS  CA    145 ALA  CA      0.00 #SUP  0.02
+ 67 LEU  CA    145 ALA  CA      0.00 #SUP  0.02
+125 ASP  CA    145 ALA  CA      0.00 #SUP  0.02
+ 65 ASN  CA    106 LEU  CA      0.00 #SUP  0.02
+ 65 ASN  CA     84 LEU  CA      0.00 #SUP  0.02
+ 60 ALA  CA     65 ASN  CA      0.00 #SUP  0.02
+ 65 ASN  CA    110 HIS  CA      0.00 #SUP  0.02
+ 57 CYS  CA     58 THR  CB      4.56 #SUP  1.00
+  6 ALA  CA    103 VAL  CA      3.92 #SUP  2.03
+ 28 PRO  CD    103 VAL  CA      0.00 #SUP  1.25
+  6 ALA  CA     66 PRO  CA      0.00 #SUP  0.13
+  6 ALA  CA      7 VAL  CB      2.40 #SUP  1.00
+ 28 PRO  CB     28 PRO  CD      0.00 #SUP  1.00
+ 62 PRO  CD    105 SER  CB      3.99 #SUP  0.75
+ 62 PRO  CD    107 SER  CB      0.00 #SUP  0.75
+ 89 ALA  CA    105 SER  CB      0.00 #SUP  0.02
+ 89 ALA  CA    107 SER  CB      0.00 #SUP  0.02
+ 62 PRO  CB     62 PRO  CD      2.40 #SUP  1.00
+ 21 GLU  CA     74 PRO  CD      3.58 #SUP  0.75
+ 74 PRO  CD    109 ASP  CA      0.00 #SUP  0.02
+ 74 PRO  CD    144 LEU  CA      0.00 #SUP  0.02
+ 74 PRO  CD    124 ASP  CA      0.00 #SUP  0.02
+ 55 ALA  CA    109 ASP  CA      0.00 #SUP  0.02
+ 32 TRP  CA     74 PRO  CD      0.00 #SUP  0.02
+ 55 ALA  CA    144 LEU  CA      0.00 #SUP  0.02
+ 55 ALA  CA    124 ASP  CA      0.00 #SUP  0.02
+ 32 TRP  CA     55 ALA  CA      0.00 #SUP  0.02
+ 74 PRO  CD    139 ASN  CA      0.00 #SUP  0.02
+ 21 GLU  CA     55 ALA  CA      0.00 #SUP  0.02
+ 55 ALA  CA    139 ASN  CA      0.00 #SUP  0.02
+ 64 PHE  CA     74 PRO  CD      0.00 #SUP  0.02
+ 55 ALA  CA     64 PHE  CA      0.00 #SUP  0.02
+ 13 PRO  CD    109 ASP  CA      0.00 #SUP  0.02
+ 13 PRO  CD    144 LEU  CA      0.00 #SUP  0.02
+ 13 PRO  CD    124 ASP  CA      0.00 #SUP  0.02
+ 13 PRO  CD     32 TRP  CA      0.00 #SUP  0.02
+ 13 PRO  CD     21 GLU  CA      0.00 #SUP  0.02
+ 13 PRO  CD    139 ASN  CA      0.00 #SUP  0.02
+ 20 PHE  CB     74 PRO  CD      4.76 #SUP  2.02
+ 20 PHE  CB     66 PRO  CD      0.00 #SUP  0.70
+ 66 PRO  CD    149 ILE  CA      4.29 #SUP  0.70
+ 66 PRO  CD    104 ILE  CA      0.00 #SUP  0.38
+ 66 PRO  CD    135 THR  CA      0.00 #SUP  0.43
+ 66 PRO  CD    134 SER  CB      0.00 #SUP  0.24
+ 62 PRO  CA     66 PRO  CD      0.00 #SUP  0.02
+ 13 PRO  CA     66 PRO  CD      0.00 #SUP  0.02
+ 14 VAL  CA     66 PRO  CD      0.00 #SUP  0.02
+ 29 VAL  CG2   101 ASP  CB      4.22 #SUP  1.54
+ 29 VAL  CG1   101 ASP  CB      0.00 #SUP  1.54
+ 29 VAL  CG1   146 CYS  CB      0.00 #SUP  0.69
+ 29 VAL  CG2   146 CYS  CB      0.00 #SUP  0.69
+101 ASP  CB    117 LEU  CD2     0.00 #SUP  0.37
+101 ASP  CB    117 LEU  CG      0.00 #SUP  0.37
+145 ALA  CB    146 CYS  CB      0.00 #SUP  2.00
+101 ASP  CB    102 SER  CB      4.25 #SUP  0.75
+101 ASP  CB    111 SER  CB      0.00 #SUP  0.02
+101 ASP  CB    142 SER  CB      0.00 #SUP  0.02
+142 SER  CB    146 CYS  CB      0.00 #SUP  0.02
+111 SER  CB    146 CYS  CB      0.00 #SUP  0.02
+ 25 SER  CB    101 ASP  CB      0.00 #SUP  0.02
+ 74 PRO  CA    101 ASP  CB      0.00 #SUP  0.02
+ 25 SER  CB    146 CYS  CB      0.00 #SUP  0.02
+ 74 PRO  CA    146 CYS  CB      0.00 #SUP  0.02
+102 SER  CB    146 CYS  CB      0.00 #SUP  0.02
+100 GLU  CA    101 ASP  CB      4.72 #SUP  1.21
+ 30 LYS  CA    101 ASP  CB      0.00 #SUP  1.27
+ 30 LYS  CA    146 CYS  CB      0.00 #SUP  0.75
+101 ASP  CA    101 ASP  CB      2.40 #SUP  1.21
+146 CYS  CA    146 CYS  CB      0.00 #SUP  1.00
+ 30 LYS  CB    101 ASP  CB      4.62 #SUP  1.09
+ 30 LYS  CB    146 CYS  CB      0.00 #SUP  0.67
+ 38 LEU  CB    103 VAL  CA      4.53 #SUP  2.19
+ 38 LEU  CB     66 PRO  CA      0.00 #SUP  1.81
+ 99 ILE  CB    103 VAL  CA      0.00 #SUP  0.95
+ 38 LEU  CB     38 LEU  CD2     2.51 #SUP  1.00
+ 38 LEU  CB     39 THR  CG2     0.00 #SUP  0.24
+ 38 LEU  CB     67 LEU  CA      4.34 #SUP  0.84
+ 38 LEU  CB     60 ALA  CA      0.00 #SUP  0.02
+ 38 LEU  CB     84 LEU  CA      0.00 #SUP  0.02
+ 38 LEU  CB    106 LEU  CA      0.00 #SUP  0.02
+ 38 LEU  CB    110 HIS  CA      0.00 #SUP  0.02
+ 38 LEU  CB    125 ASP  CA      0.00 #SUP  0.02
+ 67 LEU  CA     99 ILE  CB      0.00 #SUP  0.02
+ 60 ALA  CA     99 ILE  CB      0.00 #SUP  0.02
+ 84 LEU  CA     99 ILE  CB      0.00 #SUP  0.02
+ 99 ILE  CB    106 LEU  CA      0.00 #SUP  0.02
+ 99 ILE  CB    110 HIS  CA      0.00 #SUP  0.02
+ 99 ILE  CB    125 ASP  CA      0.00 #SUP  0.02
+ 38 LEU  CB    143 ARG  CA      0.00 #SUP  0.02
+ 38 LEU  CB    103 VAL  CB      3.51 #SUP  1.14
+ 38 LEU  CB     66 PRO  CB      0.00 #SUP  0.89
+ 99 ILE  CB    103 VAL  CB      0.00 #SUP  0.76
+ 24 GLU  CB     38 LEU  CB      0.00 #SUP  0.35
+ 38 LEU  CB     87 VAL  CB      0.00 #SUP  0.34
+ 22 GLN  CB     38 LEU  CB      0.00 #SUP  0.35
+ 38 LEU  CB    102 SER  CA      4.50 #SUP  1.01
+ 99 ILE  CB    102 SER  CA      0.00 #SUP  0.88
+ 23 LYS  CA     38 LEU  CB      0.00 #SUP  0.02
+ 38 LEU  CB     87 VAL  CA      0.00 #SUP  0.02
+ 40 GLU  CA    117 LEU  CB      4.24 #SUP  1.24
+ 40 GLU  CA     42 LEU  CB      0.00 #SUP  0.75
+ 42 LEU  CB     42 LEU  CG      2.40 #SUP  2.31
+117 LEU  CB    117 LEU  CG      2.40 #SUP  2.81
+117 LEU  CB    117 LEU  CD2     0.00 #SUP  2.81
+ 42 LEU  CA     42 LEU  CB      2.40 #SUP  1.93
+ 42 LEU  CB     43 HIS  CA      4.89 #SUP  1.43
+117 LEU  CB    117 LEU  CD1     2.51 #SUP  3.73
+ 42 LEU  CB    153 GLN  CB      3.30 #SUP  0.53
+ 86 ASN  CB    153 GLN  CB      0.00 #SUP  0.02
+ 40 GLU  CB     86 ASN  CB      0.00 #SUP  0.02
+ 86 ASN  CB    151 ILE  CG1     0.00 #SUP  0.02
+ 40 GLU  CB     42 LEU  CB      0.00 #SUP  0.02
+117 LEU  CB    153 GLN  CB      0.00 #SUP  0.02
+ 40 GLU  CB    117 LEU  CB      0.00 #SUP  0.02
+ 14 VAL  CB     86 ASN  CB      0.00 #SUP  0.02
+ 42 LEU  CB    151 ILE  CG1     0.00 #SUP  0.02
+117 LEU  CB    151 ILE  CG1     0.00 #SUP  0.02
+ 14 VAL  CB     42 LEU  CB      0.00 #SUP  0.02
+ 14 VAL  CB    117 LEU  CB      0.00 #SUP  0.02
+ 19 ASN  CB     20 PHE  CB      4.57 #SUP  2.00
+ 20 PHE  CB     35 ILE  CB      0.00 #SUP  1.29
+ 20 PHE  CB     96 ASP  CB      0.00 #SUP  0.14
+ 20 PHE  CB    149 ILE  CA      3.78 #SUP  1.74
+ 20 PHE  CB    104 ILE  CA      0.00 #SUP  0.83
+ 20 PHE  CB    148 VAL  CA      0.00 #SUP  1.37
+ 20 PHE  CB     62 PRO  CA      0.00 #SUP  0.32
+ 13 PRO  CA     20 PHE  CB      0.00 #SUP  0.25
+ 14 VAL  CA     20 PHE  CB      0.00 #SUP  0.25
+ 20 PHE  CB     48 HIS  CB      3.20 #SUP  1.24
+ 20 PHE  CB     75 LYS  CB      0.00 #SUP  0.93
+ 20 PHE  CB     74 PRO  CB      0.00 #SUP  0.91
+ 20 PHE  CB     49 GLU  CB      0.00 #SUP  0.78
+ 15 GLN  CB     20 PHE  CB      0.00 #SUP  0.25
+ 20 PHE  CB     35 ILE  CG2     3.76 #SUP  1.07
+ 20 PHE  CB    149 ILE  CG2     0.00 #SUP  0.93
+ 20 PHE  CB    104 ILE  CG2     0.00 #SUP  0.57
+ 20 PHE  CB    113 ILE  CG2     0.00 #SUP  0.27
+ 20 PHE  CB     60 ALA  CB      0.00 #SUP  0.27
+  5 VAL  CG2    20 PHE  CB      0.00 #SUP  0.09
+ 20 PHE  CA     20 PHE  CB      2.40 #SUP  1.24
+ 20 PHE  CB     48 HIS  CA      0.00 #SUP  2.36
+ 20 PHE  CB     75 LYS  CA      0.00 #SUP  1.34
+ 20 PHE  CB     92 ASP  CA      0.00 #SUP  0.82
+  3 LYS  CA     20 PHE  CB      0.00 #SUP  0.37
+ 20 PHE  CB     91 LYS  CB      3.56 #SUP  1.23
+ 20 PHE  CB    148 VAL  CB      0.00 #SUP  1.29
+ 20 PHE  CB    103 VAL  CB      0.00 #SUP  0.88
+ 20 PHE  CB     47 VAL  CB      0.00 #SUP  0.61
+ 20 PHE  CB     35 ILE  CG1     3.97 #SUP  0.53
+ 20 PHE  CB    143 ARG  CB      0.00 #SUP  0.09
+ 20 PHE  CB    110 HIS  CB      0.00 #SUP  0.02
+ 20 PHE  CB     99 ILE  CG1     0.00 #SUP  0.02
+ 20 PHE  CB     84 LEU  CG      0.00 #SUP  0.02
+ 20 PHE  CB     69 ARG  CB      0.00 #SUP  0.02
+ 20 PHE  CB     79 ARG  CB      0.00 #SUP  0.02
+ 20 PHE  CB     28 PRO  CG      0.00 #SUP  0.02
+ 20 PHE  CB     67 LEU  CG      0.00 #SUP  0.02
+ 20 PHE  CB     74 PRO  CD      4.83 #SUP  2.02
+ 20 PHE  CB     49 GLU  CA      3.79 #SUP  1.06
+ 20 PHE  CB     47 VAL  CA      0.00 #SUP  0.90
+  7 VAL  CA     20 PHE  CB      0.00 #SUP  0.91
+ 20 PHE  CB     94 VAL  CA      0.00 #SUP  0.88
+ 20 PHE  CB     91 LYS  CD      3.65 #SUP  1.03
+ 20 PHE  CB    144 LEU  CD1     0.00 #SUP  0.02
+ 17 ILE  CG1    20 PHE  CB      0.00 #SUP  0.02
+ 20 PHE  CB    136 LYS  CD      0.00 #SUP  0.02
+ 20 PHE  CB     95 ALA  CB      3.62 #SUP  0.89
+ 20 PHE  CB     94 VAL  CG2     0.00 #SUP  0.62
+  7 VAL  CG2    20 PHE  CB      0.00 #SUP  0.29
+ 20 PHE  CB    144 LEU  CD2     0.00 #SUP  0.28
+ 20 PHE  CB     89 ALA  CB      0.00 #SUP  0.10
+ 20 PHE  CA     20 PHE  CB      2.40 #SUP  1.24
+ 20 PHE  CB     48 HIS  CA      0.00 #SUP  2.36
+ 20 PHE  CB     75 LYS  CA      0.00 #SUP  1.34
+ 20 PHE  CB     92 ASP  CA      0.00 #SUP  0.82
+  3 LYS  CA     20 PHE  CB      0.00 #SUP  0.37
+ 20 PHE  CB     22 GLN  CA      0.00 #SUP  0.24
+ 20 PHE  CB     91 LYS  CG      4.19 #SUP  1.07
+  8 LEU  CD1    20 PHE  CB      0.00 #SUP  0.48
+ 20 PHE  CB     75 LYS  CG      0.00 #SUP  0.43
+  6 ALA  CB     20 PHE  CB      0.00 #SUP  0.32
+ 20 PHE  CB    103 VAL  CG1     0.00 #SUP  0.35
+  4 ALA  CB     20 PHE  CB      0.00 #SUP  0.12
+124 ASP  CB    125 ASP  CA      4.31 #SUP  1.00
+143 ARG  CA    144 LEU  CB      0.00 #SUP  1.27
+144 LEU  CB    144 LEU  CG      2.40 #SUP  1.27
+ 75 LYS  CD     75 LYS  CE      0.00 #SUP  1.00
+ 74 PRO  CG     75 LYS  CE      0.00 #SUP  0.63
+ 75 LYS  CD     76 ASP  CB      0.00 #SUP  0.47
+136 LYS  CG    136 LYS  CE      2.40 #SUP  1.00
+122 LYS  CG    122 LYS  CE      0.00 #SUP  1.00
+ 66 PRO  CA     84 LEU  CB      3.66 #SUP  0.36
+ 66 PRO  CA    136 LYS  CE      0.00 #SUP  0.42
+ 66 PRO  CA    122 LYS  CE      0.00 #SUP  0.32
+ 66 PRO  CA     90 ASP  CB      0.00 #SUP  0.12
+ 66 PRO  CA     92 ASP  CB      0.00 #SUP  0.12
+142 SER  CB    144 LEU  CB      0.00 #SUP  0.75
+ 25 SER  CB    136 LYS  CE      0.00 #SUP  0.15
+111 SER  CB    136 LYS  CE      0.00 #SUP  0.13
+  3 LYS  CE     66 PRO  CA      0.00 #SUP  0.02
+ 66 PRO  CA     70 LYS  CE      0.00 #SUP  0.02
+ 66 PRO  CA     91 LYS  CE      0.00 #SUP  0.02
+ 66 PRO  CA     76 ASP  CB      0.00 #SUP  0.02
+ 35 ILE  CB     35 ILE  CG2     2.40 #SUP  1.11
+ 35 ILE  CB     35 ILE  CD1     2.40 #SUP  1.20
+ 17 ILE  CB     17 ILE  CD1     0.00 #SUP  1.00
+ 83 ASP  CB    101 ASP  CB      4.74 #SUP  0.39
+ 11 ASP  CB    101 ASP  CB      0.00 #SUP  0.02
+ 17 ILE  CB    101 ASP  CB      0.00 #SUP  0.02
+ 19 ASN  CB    101 ASP  CB      0.00 #SUP  0.02
+ 96 ASP  CB    101 ASP  CB      0.00 #SUP  0.02
+ 35 ILE  CB    101 ASP  CB      0.00 #SUP  0.02
+ 11 ASP  CB    146 CYS  CB      0.00 #SUP  0.02
+ 17 ILE  CB    146 CYS  CB      0.00 #SUP  0.02
+ 19 ASN  CB    146 CYS  CB      0.00 #SUP  0.02
+ 96 ASP  CB    146 CYS  CB      0.00 #SUP  0.02
+ 83 ASP  CB    146 CYS  CB      0.00 #SUP  0.02
+ 35 ILE  CB    146 CYS  CB      0.00 #SUP  0.02
+ 83 ASP  CA     83 ASP  CB      2.40 #SUP  1.00
+ 83 ASP  CB    107 SER  CA      0.00 #SUP  0.25
+ 19 ASN  CB    107 SER  CA      0.00 #SUP  0.25
+ 11 ASP  CB    107 SER  CA      0.00 #SUP  0.25
+ 19 ASN  CA     19 ASN  CB      2.40 #SUP  1.00
+ 19 ASN  CB     20 PHE  CB      4.27 #SUP  2.00
+ 20 PHE  CB     83 ASP  CB      0.00 #SUP  0.02
+ 49 GLU  CG    151 ILE  CB      4.46 #SUP  0.67
+ 21 GLU  CB    151 ILE  CB      0.00 #SUP  0.32
+ 21 GLU  CB     50 PHE  CB      0.00 #SUP  0.02
+ 49 GLU  CG     50 PHE  CB      0.00 #SUP  0.02
+109 ASP  CB    110 HIS  CB      3.41 #SUP  2.23
+ 28 PRO  CG     53 ASN  CB      0.00 #SUP  0.20
+ 53 ASN  CB    110 HIS  CB      0.00 #SUP  0.02
+ 53 ASN  CB     99 ILE  CG1     0.00 #SUP  0.02
+ 35 ILE  CG1    53 ASN  CB      0.00 #SUP  0.02
+ 53 ASN  CB    143 ARG  CB      0.00 #SUP  0.02
+ 53 ASN  CB     84 LEU  CG      0.00 #SUP  0.02
+ 50 PHE  CB    110 HIS  CB      0.00 #SUP  0.02
+ 50 PHE  CB     99 ILE  CG1     0.00 #SUP  0.02
+109 ASP  CB    110 HIS  CA      2.40 #SUP  2.01
+125 ASP  CA    125 ASP  CB      0.00 #SUP  1.35
+124 ASP  CA    125 ASP  CB      2.40 #SUP  1.50
+109 ASP  CA    109 ASP  CB      0.00 #SUP  1.44
+ 64 PHE  CA     65 ASN  CB      0.00 #SUP  1.00
+ 64 PHE  CA     64 PHE  CB      0.00 #SUP  1.00
+ 38 LEU  CD2    65 ASN  CB      4.39 #SUP  0.72
+ 29 VAL  CG2    53 ASN  CB      0.00 #SUP  1.15
+ 29 VAL  CG1    53 ASN  CB      0.00 #SUP  1.15
+ 39 THR  CG2    65 ASN  CB      0.00 #SUP  0.24
+ 65 ASN  CB     67 LEU  CD2     0.00 #SUP  0.15
+ 65 ASN  CB    145 ALA  CB      0.00 #SUP  0.25
+ 64 PHE  CB     74 PRO  CA      3.53 #SUP  0.74
+ 64 PHE  CB    151 ILE  CA      0.00 #SUP  0.75
+ 64 PHE  CB    102 SER  CB      0.00 #SUP  0.10
+ 65 ASN  CB    151 ILE  CA      0.00 #SUP  0.24
+ 64 PHE  CB    153 GLN  CB      4.12 #SUP  0.93
+ 64 PHE  CB    151 ILE  CG1     0.00 #SUP  0.75
+ 40 GLU  CB     64 PHE  CB      0.00 #SUP  0.58
+ 65 ASN  CB    151 ILE  CG1     0.00 #SUP  0.21
+ 65 ASN  CB    153 GLN  CB      0.00 #SUP  0.18
+ 40 GLU  CB     65 ASN  CB      0.00 #SUP  0.13
+123 ALA  CB    125 ASP  CB      3.45 #SUP  0.75
+109 ASP  CB    123 ALA  CB      0.00 #SUP  0.66
+ 64 PHE  CB    123 ALA  CB      0.00 #SUP  0.14
+ 65 ASN  CB    123 ALA  CB      0.00 #SUP  0.02
+ 64 PHE  CA     64 PHE  CB      2.40 #SUP  1.00
+ 18 ILE  CA     18 ILE  CB      0.00 #SUP  1.93
+124 ASP  CA    125 ASP  CB      0.00 #SUP  1.50
+109 ASP  CA    109 ASP  CB      0.00 #SUP  1.44
+ 64 PHE  CA     65 ASN  CB      0.00 #SUP  1.00
+ 64 PHE  CB    153 GLN  CA      4.31 #SUP  0.85
+ 26 ASN  CB     59 SER  CA      0.00 #SUP  0.35
+ 64 PHE  CB     83 ASP  CA      0.00 #SUP  0.02
+ 64 PHE  CB    107 SER  CA      0.00 #SUP  0.02
+ 18 ILE  CB    153 GLN  CA      0.00 #SUP  0.02
+ 18 ILE  CB     83 ASP  CA      0.00 #SUP  0.02
+ 18 ILE  CB    107 SER  CA      0.00 #SUP  0.02
+ 40 GLU  CA     64 PHE  CB      0.00 #SUP  0.02
+ 17 ILE  CA     18 ILE  CB      4.70 #SUP  1.93
+ 26 ASN  CB    113 ILE  CA      0.00 #SUP  0.94
+ 26 ASN  CB    113 ILE  CB      3.91 #SUP  0.35
+ 64 PHE  CB    153 GLN  CG      0.00 #SUP  1.23
+ 26 ASN  CB     49 GLU  CG      0.00 #SUP  0.56
+ 26 ASN  CB     36 LYS  CB      0.00 #SUP  0.10
+ 18 ILE  CB    113 ILE  CB      0.00 #SUP  0.02
+ 26 ASN  CB    119 VAL  CB      0.00 #SUP  0.02
+ 26 ASN  CB    118 VAL  CB      0.00 #SUP  0.02
+ 26 ASN  CB    153 GLN  CG      0.00 #SUP  0.02
+ 18 ILE  CB    118 VAL  CB      0.00 #SUP  0.02
+ 18 ILE  CB    119 VAL  CB      0.00 #SUP  0.02
+ 18 ILE  CB    153 GLN  CG      0.00 #SUP  0.02
+ 26 ASN  CB    121 GLU  CG      0.00 #SUP  0.02
+ 18 ILE  CB    121 GLU  CG      0.00 #SUP  0.02
+ 18 ILE  CB     36 LYS  CB      0.00 #SUP  0.02
+ 18 ILE  CB     18 ILE  CG1     2.40 #SUP  2.00
+ 26 ASN  CB    113 ILE  CG2     3.57 #SUP  0.46
+ 26 ASN  CB     60 ALA  CB      0.00 #SUP  0.34
+ 26 ASN  CB     35 ILE  CG2     0.00 #SUP  0.02
+ 26 ASN  CB    104 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB     60 ALA  CB      0.00 #SUP  0.02
+ 18 ILE  CB    113 ILE  CG2     0.00 #SUP  0.02
+ 26 ASN  CB    149 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB     35 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB    104 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB    149 ILE  CG2     0.00 #SUP  0.02
+  5 VAL  CG2    26 ASN  CB      0.00 #SUP  0.02
+ 26 ASN  CB     49 GLU  CB      4.17 #SUP  0.45
+ 26 ASN  CB     48 HIS  CB      0.00 #SUP  0.23
+ 15 GLN  CB     26 ASN  CB      0.00 #SUP  0.02
+ 26 ASN  CB     75 LYS  CB      0.00 #SUP  0.02
+ 26 ASN  CB     74 PRO  CB      0.00 #SUP  0.02
+ 18 ILE  CB     48 HIS  CB      0.00 #SUP  0.02
+ 18 ILE  CB     49 GLU  CB      0.00 #SUP  0.02
+ 15 GLN  CB     18 ILE  CB      0.00 #SUP  0.02
+ 18 ILE  CB     75 LYS  CB      0.00 #SUP  0.02
+ 18 ILE  CB     74 PRO  CB      0.00 #SUP  0.02
+112 ILE  CB    113 ILE  CA      4.75 #SUP  1.00
+ 21 GLU  CG     49 GLU  CA      0.00 #SUP  0.19
+ 21 GLU  CG     47 VAL  CA      0.00 #SUP  0.13
+112 ILE  CB    112 ILE  CG1     2.40 #SUP  1.68
+112 ILE  CA    112 ILE  CB      2.40 #SUP  3.31
+ 21 GLU  CG     94 VAL  CG2     3.74 #SUP  0.32
+112 ILE  CB    123 ALA  CB      0.00 #SUP  0.50
+  7 VAL  CG2    21 GLU  CG      0.00 #SUP  0.15
+123 ALA  CB    126 LEU  CB      0.00 #SUP  0.28
+ 21 GLU  CG     95 ALA  CB      0.00 #SUP  0.14
+ 94 VAL  CG2   126 LEU  CB      0.00 #SUP  0.02
+  7 VAL  CG2   126 LEU  CB      0.00 #SUP  0.02
+  7 VAL  CG2   112 ILE  CB      0.00 #SUP  0.02
+ 94 VAL  CG2   112 ILE  CB      0.00 #SUP  0.02
+ 31 VAL  CG2   126 LEU  CB      0.00 #SUP  0.02
+ 21 GLU  CG     31 VAL  CG2     0.00 #SUP  0.02
+ 31 VAL  CG2   112 ILE  CB      0.00 #SUP  0.02
+ 95 ALA  CB    126 LEU  CB      0.00 #SUP  0.02
+ 89 ALA  CB    126 LEU  CB      0.00 #SUP  0.02
+ 21 GLU  CG     89 ALA  CB      0.00 #SUP  0.02
+ 95 ALA  CB    112 ILE  CB      0.00 #SUP  0.02
+ 89 ALA  CB    112 ILE  CB      0.00 #SUP  0.02
+149 ILE  CB    151 ILE  CG2     4.74 #SUP  0.74
+  9 LYS  CB    151 ILE  CG2     0.00 #SUP  0.75
+ 78 GLU  CG    151 ILE  CG2     0.00 #SUP  0.08
+ 77 GLU  CG    151 ILE  CG2     0.00 #SUP  0.08
+100 GLU  CG    151 ILE  CG2     0.00 #SUP  0.02
+149 ILE  CA    149 ILE  CB      2.40 #SUP  2.96
+148 VAL  CA    149 ILE  CB      0.00 #SUP  1.02
+149 ILE  CB    149 ILE  CG1     2.40 #SUP  2.47
+  9 LYS  CB      9 LYS  CD      0.00 #SUP  1.00
+ 77 GLU  CB     77 GLU  CG      0.00 #SUP  1.00
+ 78 GLU  CB     78 GLU  CG      0.00 #SUP  1.00
+ 77 GLU  CA     77 GLU  CG      2.55 #SUP  1.00
+ 77 GLU  CA     78 GLU  CG      0.00 #SUP  0.32
+  3 LYS  CB      4 ALA  CA      4.33 #SUP  1.00
+  4 ALA  CA      5 VAL  CB      0.00 #SUP  1.59
+  4 ALA  CB      5 VAL  CB      4.29 #SUP  2.21
+  5 VAL  CB      6 ALA  CB      0.00 #SUP  1.31
+  5 VAL  CB      5 VAL  CG1     2.40 #SUP  1.70
+119 VAL  CA    119 VAL  CB      2.40 #SUP  2.13
+118 VAL  CB    119 VAL  CA      0.00 #SUP  1.55
+112 ILE  CA    113 ILE  CB      4.29 #SUP  1.00
+ 35 ILE  CA     36 LYS  CB      0.00 #SUP  1.00
+ 49 GLU  CG    151 ILE  CA      4.36 #SUP  0.26
+151 ILE  CA    153 GLN  CG      0.00 #SUP  0.32
+ 21 GLU  CB    151 ILE  CA      0.00 #SUP  0.31
+ 49 GLU  CG     98 SER  CB      0.00 #SUP  0.02
+ 36 LYS  CB     98 SER  CB      0.00 #SUP  0.02
+ 98 SER  CB    118 VAL  CB      0.00 #SUP  0.02
+ 98 SER  CB    119 VAL  CB      0.00 #SUP  0.02
+ 36 LYS  CB    151 ILE  CA      0.00 #SUP  0.02
+119 VAL  CB    151 ILE  CA      0.00 #SUP  0.02
+118 VAL  CB    151 ILE  CA      0.00 #SUP  0.02
+ 98 SER  CB    113 ILE  CB      0.00 #SUP  0.02
+113 ILE  CB    151 ILE  CA      0.00 #SUP  0.02
+ 98 SER  CB    153 GLN  CG      0.00 #SUP  0.02
+118 VAL  CA    118 VAL  CB      2.40 #SUP  2.59
+118 VAL  CA    119 VAL  CB      0.00 #SUP  1.92
+118 VAL  CB    118 VAL  CG1     2.40 #SUP  1.31
+119 VAL  CB    119 VAL  CG1     0.00 #SUP  1.00
+118 VAL  CG1   119 VAL  CB      0.00 #SUP  1.95
+118 VAL  CB    119 VAL  CG1     0.00 #SUP  1.82
+152 ALA  CB    153 GLN  CG      0.00 #SUP  1.15
+ 21 GLU  CA     21 GLU  CB      2.40 #SUP  1.50
+ 21 GLU  CB     50 PHE  CA      0.00 #SUP  0.28
+ 21 GLU  CB     66 PRO  CD      4.96 #SUP  1.53
+ 66 PRO  CD    133 GLU  CG      0.00 #SUP  1.88
+ 66 PRO  CD    122 LYS  CB      0.00 #SUP  1.09
+ 49 GLU  CG     66 PRO  CD      0.00 #SUP  0.42
+133 GLU  CG    134 SER  CB      3.85 #SUP  1.29
+133 GLU  CG    135 THR  CA      0.00 #SUP  1.13
+ 30 LYS  CB     30 LYS  CD      2.40 #SUP  1.66
+133 GLU  CB    133 GLU  CG      0.00 #SUP  1.00
+122 LYS  CB    122 LYS  CD      0.00 #SUP  1.00
+ 25 SER  CB     30 LYS  CB      3.23 #SUP  1.28
+ 30 LYS  CB     66 PRO  CA      0.00 #SUP  1.40
+ 30 LYS  CB    111 SER  CB      0.00 #SUP  0.28
+ 30 LYS  CB    142 SER  CB      0.00 #SUP  0.28
+ 66 PRO  CA    133 GLU  CG      0.00 #SUP  1.35
+ 66 PRO  CA    122 LYS  CB      0.00 #SUP  1.35
+ 30 LYS  CB     65 ASN  CA      3.33 #SUP  2.42
+ 30 LYS  CB    145 ALA  CA      0.00 #SUP  1.34
+ 65 ASN  CA    133 GLU  CG      0.00 #SUP  1.22
+ 65 ASN  CA    122 LYS  CB      0.00 #SUP  1.22
+ 30 LYS  CB     53 ASN  CA      0.00 #SUP  1.98
+133 GLU  CG    145 ALA  CA      0.00 #SUP  0.36
+122 LYS  CB    145 ALA  CA      0.00 #SUP  0.36
+ 53 ASN  CA    133 GLU  CG      0.00 #SUP  0.33
+ 29 VAL  CA     30 LYS  CB      3.84 #SUP  3.17
+ 30 LYS  CB     31 VAL  CA      0.00 #SUP  1.00
+133 GLU  CG    134 SER  CA      0.00 #SUP  2.38
+ 30 LYS  CB     66 PRO  CG      4.22 #SUP  1.38
+ 66 PRO  CG    133 GLU  CG      0.00 #SUP  1.27
+ 66 PRO  CG    122 LYS  CB      0.00 #SUP  1.27
+ 28 PRO  CG     30 LYS  CB      0.00 #SUP  0.67
+ 30 LYS  CB     67 LEU  CG      0.00 #SUP  0.42
+ 30 LYS  CB     38 LEU  CD1     0.00 #SUP  0.25
+ 67 LEU  CG    133 GLU  CG      0.00 #SUP  0.31
+ 67 LEU  CG    122 LYS  CB      0.00 #SUP  0.31
+ 29 VAL  CG2    30 LYS  CB      2.96 #SUP  2.51
+ 29 VAL  CG1    30 LYS  CB      0.00 #SUP  2.51
+ 30 LYS  CB     67 LEU  CD2     0.00 #SUP  0.42
+ 18 ILE  CG2    30 LYS  CB      3.85 #SUP  2.43
+ 30 LYS  CB    101 ASP  CB      4.45 #SUP  1.09
+ 30 LYS  CB    146 CYS  CB      0.00 #SUP  0.67
+ 23 LYS  CB     58 THR  CA      3.72 #SUP  1.04
+ 58 THR  CA    121 GLU  CB      0.00 #SUP  0.34
+ 58 THR  CA     97 VAL  CB      0.00 #SUP  0.02
+ 15 GLN  CG     58 THR  CA      0.00 #SUP  0.02
+ 23 LYS  CB     23 LYS  CG      2.40 #SUP  1.00
+121 GLU  CB    122 LYS  CG      0.00 #SUP  0.99
+ 13 PRO  CB     14 VAL  CA      2.40 #SUP  1.65
+ 13 PRO  CA     13 PRO  CB      0.00 #SUP  1.27
+ 28 PRO  CA     29 VAL  CB      0.00 #SUP  1.00
+ 28 PRO  CA     28 PRO  CB      0.00 #SUP  1.27
+ 29 VAL  CB    101 ASP  CB      4.57 #SUP  1.34
+100 GLU  CB    101 ASP  CB      0.00 #SUP  1.50
+ 28 PRO  CB    101 ASP  CB      0.00 #SUP  0.84
+ 29 VAL  CB    146 CYS  CB      0.00 #SUP  0.24
+ 31 VAL  CB    146 CYS  CB      0.00 #SUP  0.24
+ 31 VAL  CB    101 ASP  CB      0.00 #SUP  0.16
+  7 VAL  CB    103 VAL  CA      3.60 #SUP  1.40
+  7 VAL  CB     66 PRO  CA      0.00 #SUP  0.88
+ 28 PRO  CB    103 VAL  CA      0.00 #SUP  0.62
+ 29 VAL  CB    103 VAL  CA      0.00 #SUP  0.40
+  6 ALA  CA      7 VAL  CB      2.40 #SUP  1.00
+ 28 PRO  CD     28 PRO  CB      0.00 #SUP  1.00
+ 28 PRO  CD     29 VAL  CB      0.00 #SUP  1.27
+ 62 PRO  CB    105 SER  CB      3.62 #SUP  0.75
+ 62 PRO  CB    107 SER  CB      0.00 #SUP  0.75
+105 SER  CB    148 VAL  CB      0.00 #SUP  0.02
+ 62 PRO  CD     62 PRO  CB      2.40 #SUP  1.00
+ 20 PHE  CB    148 VAL  CB      3.77 #SUP  1.29
+ 20 PHE  CB     91 LYS  CB      0.00 #SUP  1.23
+ 20 PHE  CB    103 VAL  CB      0.00 #SUP  0.88
+102 SER  CB    103 VAL  CB      3.90 #SUP  1.37
+ 24 GLU  CB     25 SER  CB      0.00 #SUP  0.75
+ 32 TRP  CB     74 PRO  CA      0.00 #SUP  0.02
+ 22 GLN  CB     74 PRO  CA      0.00 #SUP  0.02
+ 74 PRO  CA     91 LYS  CB      0.00 #SUP  0.02
+ 24 GLU  CB     74 PRO  CA      0.00 #SUP  0.02
+ 74 PRO  CA     87 VAL  CB      0.00 #SUP  0.02
+ 32 TRP  CB    102 SER  CB      0.00 #SUP  0.02
+ 22 GLN  CB    102 SER  CB      0.00 #SUP  0.02
+ 91 LYS  CB    102 SER  CB      0.00 #SUP  0.02
+ 74 PRO  CA    103 VAL  CB      0.00 #SUP  0.02
+ 38 LEU  CB    103 VAL  CB      3.51 #SUP  1.14
+ 38 LEU  CB     66 PRO  CB      0.00 #SUP  0.89
+ 99 ILE  CB    103 VAL  CB      0.00 #SUP  0.76
+ 24 GLU  CB     38 LEU  CB      0.00 #SUP  0.35
+ 22 GLN  CB     38 LEU  CB      0.00 #SUP  0.35
+ 38 LEU  CB     87 VAL  CB      0.00 #SUP  0.34
+103 VAL  CA    103 VAL  CB      2.40 #SUP  2.57
+ 66 PRO  CA     66 PRO  CB      0.00 #SUP  1.50
+103 VAL  CB    104 ILE  CG2     4.06 #SUP  3.06
+ 35 ILE  CG2   103 VAL  CB      0.00 #SUP  1.02
+103 VAL  CB    149 ILE  CG2     0.00 #SUP  0.24
+ 35 ILE  CB    103 VAL  CB      3.68 #SUP  0.81
+ 17 ILE  CB    103 VAL  CB      0.00 #SUP  0.32
+ 19 ASN  CB     91 LYS  CB      0.00 #SUP  0.42
+ 17 ILE  CB     94 VAL  CB      0.00 #SUP  0.02
+ 17 ILE  CB     66 PRO  CB      0.00 #SUP  0.02
+ 17 ILE  CB     43 HIS  CB      0.00 #SUP  0.02
+ 17 ILE  CB     71 HIS  CB      0.00 #SUP  0.02
+ 94 VAL  CB     96 ASP  CB      0.00 #SUP  0.02
+ 66 PRO  CB     96 ASP  CB      0.00 #SUP  0.02
+ 43 HIS  CB     96 ASP  CB      0.00 #SUP  0.02
+ 71 HIS  CB     96 ASP  CB      0.00 #SUP  0.02
+ 35 ILE  CB     94 VAL  CB      0.00 #SUP  0.02
+ 35 ILE  CB     66 PRO  CB      0.00 #SUP  0.02
+ 35 ILE  CB     43 HIS  CB      0.00 #SUP  0.02
+ 35 ILE  CB     71 HIS  CB      0.00 #SUP  0.02
+ 17 ILE  CB     47 VAL  CB      0.00 #SUP  0.02
+ 47 VAL  CB     96 ASP  CB      0.00 #SUP  0.02
+ 35 ILE  CB     47 VAL  CB      0.00 #SUP  0.02
+103 VAL  CB    104 ILE  CD1     3.54 #SUP  2.11
+ 35 ILE  CD1   103 VAL  CB      0.00 #SUP  1.04
+ 15 GLN  CB    136 LYS  CB      4.78 #SUP  0.50
+ 66 PRO  CB    132 GLU  CG      0.00 #SUP  0.02
+ 94 VAL  CB    132 GLU  CG      0.00 #SUP  0.02
+ 66 PRO  CB    136 LYS  CB      0.00 #SUP  0.02
+ 94 VAL  CB    136 LYS  CB      0.00 #SUP  0.02
+ 15 GLN  CB    132 GLU  CG      0.00 #SUP  0.02
+ 43 HIS  CB    132 GLU  CG      0.00 #SUP  0.02
+ 71 HIS  CB    132 GLU  CG      0.00 #SUP  0.02
+ 43 HIS  CB    136 LYS  CB      0.00 #SUP  0.02
+ 71 HIS  CB    136 LYS  CB      0.00 #SUP  0.02
+ 47 VAL  CB    132 GLU  CG      0.00 #SUP  0.02
+ 47 VAL  CB    136 LYS  CB      0.00 #SUP  0.02
+103 VAL  CB    132 GLU  CG      0.00 #SUP  0.02
+103 VAL  CB    136 LYS  CB      0.00 #SUP  0.02
+ 15 GLN  CB    137 THR  CA      3.69 #SUP  0.59
+ 15 GLN  CB    112 ILE  CA      0.00 #SUP  0.02
+  5 VAL  CA     15 GLN  CB      0.00 #SUP  0.02
+ 15 GLN  CB     99 ILE  CA      0.00 #SUP  0.02
+ 47 VAL  CA     48 HIS  CB      2.40 #SUP  1.00
+ 48 HIS  CB     49 GLU  CA      0.00 #SUP  1.00
+ 49 GLU  CA     49 GLU  CB      0.00 #SUP  1.00
+ 20 PHE  CB     48 HIS  CB      3.25 #SUP  1.24
+ 20 PHE  CB     75 LYS  CB      0.00 #SUP  0.93
+ 20 PHE  CB     74 PRO  CB      0.00 #SUP  0.91
+ 20 PHE  CB     49 GLU  CB      0.00 #SUP  0.78
+ 15 GLN  CB     20 PHE  CB      0.00 #SUP  0.25
+ 74 PRO  CG     74 PRO  CB      2.40 #SUP  1.00
+ 75 LYS  CB     75 LYS  CD      0.00 #SUP  1.00
+ 74 PRO  CB     75 LYS  CD      0.00 #SUP  0.94
+ 74 PRO  CG     75 LYS  CB      0.00 #SUP  0.63
+151 ILE  CA    151 ILE  CG1     2.52 #SUP  1.00
+151 ILE  CA    153 GLN  CB      0.00 #SUP  0.62
+ 14 VAL  CA     14 VAL  CB      2.40 #SUP  2.31
+ 13 PRO  CA     14 VAL  CB      0.00 #SUP  1.27
+ 64 PHE  CB    153 GLN  CB      3.60 #SUP  0.93
+ 64 PHE  CB    151 ILE  CG1     0.00 #SUP  0.75
+ 40 GLU  CB     64 PHE  CB      0.00 #SUP  0.58
+ 65 ASN  CB    151 ILE  CG1     0.00 #SUP  0.21
+ 65 ASN  CB    153 GLN  CB      0.00 #SUP  0.18
+ 40 GLU  CB     65 ASN  CB      0.00 #SUP  0.13
+123 ALA  CB    151 ILE  CG1     3.69 #SUP  1.50
+ 40 GLU  CB    123 ALA  CB      0.00 #SUP  0.67
+123 ALA  CB    153 GLN  CB      0.00 #SUP  0.49
+ 40 GLU  CA     40 GLU  CB      2.40 #SUP  1.00
+153 GLN  CA    153 GLN  CB      0.00 #SUP  1.00
+149 ILE  CB    149 ILE  CG1     2.40 #SUP  2.47
+  9 LYS  CB      9 LYS  CD      0.00 #SUP  1.00
+149 ILE  CG1   151 ILE  CG2     4.54 #SUP  0.75
+  9 LYS  CD    151 ILE  CG2     0.00 #SUP  0.84
+  8 LEU  CG    151 ILE  CG2     0.00 #SUP  0.42
+ 77 GLU  CB    151 ILE  CG2     0.00 #SUP  0.32
+ 78 GLU  CB    151 ILE  CG2     0.00 #SUP  0.32
+149 ILE  CG2   149 ILE  CG1     2.51 #SUP  3.12
+ 35 ILE  CG2    36 LYS  CD      0.00 #SUP  0.56
+122 LYS  CD    123 ALA  CA      4.88 #SUP  1.53
+  8 LEU  CG     19 ASN  CA      0.00 #SUP  0.34
+  9 LYS  CD     38 LEU  CA      0.00 #SUP  0.02
+ 38 LEU  CA    149 ILE  CG1     0.00 #SUP  0.02
+  9 LYS  CD     86 ASN  CA      0.00 #SUP  0.02
+  8 LEU  CG     38 LEU  CA      0.00 #SUP  0.02
+ 36 LYS  CD     38 LEU  CA      0.00 #SUP  0.02
+ 86 ASN  CA    149 ILE  CG1     0.00 #SUP  0.02
+  8 LEU  CG     86 ASN  CA      0.00 #SUP  0.02
+ 36 LYS  CD     86 ASN  CA      0.00 #SUP  0.02
+  9 LYS  CD     90 ASP  CA      0.00 #SUP  0.02
+ 90 ASP  CA    149 ILE  CG1     0.00 #SUP  0.02
+ 38 LEU  CA     77 GLU  CB      0.00 #SUP  0.02
+  9 LYS  CD     19 ASN  CA      0.00 #SUP  0.02
+  8 LEU  CG     90 ASP  CA      0.00 #SUP  0.02
+ 36 LYS  CD     90 ASP  CA      0.00 #SUP  0.02
+ 19 ASN  CA    149 ILE  CG1     0.00 #SUP  0.02
+ 77 GLU  CB     86 ASN  CA      0.00 #SUP  0.02
+  9 LYS  CD    117 LEU  CA      0.00 #SUP  0.02
+ 19 ASN  CA     36 LYS  CD      0.00 #SUP  0.02
+  8 LEU  CG    103 VAL  CA      3.86 #SUP  0.41
+ 66 PRO  CA    136 LYS  CD      0.00 #SUP  0.83
+ 36 LYS  CD    103 VAL  CA      0.00 #SUP  0.27
+103 VAL  CA    149 ILE  CG1     0.00 #SUP  0.24
+  9 LYS  CD    103 VAL  CA      0.00 #SUP  0.12
+  8 LEU  CG     66 PRO  CA      0.00 #SUP  0.13
+ 77 GLU  CB    103 VAL  CA      0.00 #SUP  0.02
+ 78 GLU  CB    103 VAL  CA      0.00 #SUP  0.02
+ 80 HIS  CB    103 VAL  CA      0.00 #SUP  0.02
+ 30 LYS  CD     53 ASN  CA      3.75 #SUP  0.93
+ 30 LYS  CD    145 ALA  CA      0.00 #SUP  0.67
+ 30 LYS  CD     65 ASN  CA      0.00 #SUP  0.46
+ 53 ASN  CA    136 LYS  CD      0.00 #SUP  0.39
+144 LEU  CD1   145 ALA  CA      0.00 #SUP  0.46
+ 65 ASN  CA    136 LYS  CD      0.00 #SUP  0.17
+ 53 ASN  CA     80 HIS  CB      0.00 #SUP  0.18
+ 53 ASN  CA    133 GLU  CB      0.00 #SUP  0.12
+133 GLU  CB    133 GLU  CG      2.40 #SUP  1.00
+122 LYS  CB    122 LYS  CD      0.00 #SUP  1.00
+ 30 LYS  CB     30 LYS  CD      0.00 #SUP  1.66
+ 20 PHE  CB     91 LYS  CD      3.75 #SUP  1.03
+ 20 PHE  CB     36 LYS  CD      0.00 #SUP  0.35
+  8 LEU  CG     20 PHE  CB      0.00 #SUP  0.15
+  9 LYS  CD     20 PHE  CB      0.00 #SUP  0.11
+ 20 PHE  CB    136 LYS  CD      0.00 #SUP  0.02
+ 17 ILE  CG1    20 PHE  CB      0.00 #SUP  0.02
+ 20 PHE  CB    122 LYS  CD      0.00 #SUP  0.02
+ 20 PHE  CB     70 LYS  CD      0.00 #SUP  0.02
+  3 LYS  CD     20 PHE  CB      0.00 #SUP  0.02
+ 20 PHE  CB    144 LEU  CD1     0.00 #SUP  0.02
+ 20 PHE  CB     23 LYS  CD      0.00 #SUP  0.02
+ 20 PHE  CB    133 GLU  CB      0.00 #SUP  0.02
+ 20 PHE  CB     30 LYS  CD      0.00 #SUP  0.02
+ 20 PHE  CB     80 HIS  CB      0.00 #SUP  0.02
+ 20 PHE  CB     78 GLU  CB      0.00 #SUP  0.02
+ 42 LEU  CB     42 LEU  CG      2.40 #SUP  2.31
+ 66 PRO  CA     66 PRO  CG      2.40 #SUP  2.63
+ 38 LEU  CD1    66 PRO  CA      0.00 #SUP  0.75
+ 66 PRO  CA     67 LEU  CG      0.00 #SUP  0.56
+ 65 ASN  CA     66 PRO  CG      4.22 #SUP  1.85
+ 65 ASN  CA     67 LEU  CG      0.00 #SUP  1.19
+ 30 LYS  CB     66 PRO  CG      3.69 #SUP  1.38
+ 66 PRO  CG    133 GLU  CG      0.00 #SUP  1.27
+ 66 PRO  CG    122 LYS  CB      0.00 #SUP  1.27
+ 28 PRO  CG     30 LYS  CB      0.00 #SUP  0.67
+ 30 LYS  CB     67 LEU  CG      0.00 #SUP  0.42
+ 30 LYS  CB     38 LEU  CD1     0.00 #SUP  0.25
+ 67 LEU  CG    122 LYS  CB      0.00 #SUP  0.31
+ 67 LEU  CG    133 GLU  CG      0.00 #SUP  0.31
+ 65 ASN  CB     66 PRO  CG      3.42 #SUP  1.94
+109 ASP  CB    110 HIS  CB      0.00 #SUP  2.23
+ 20 PHE  CB     35 ILE  CG1     4.41 #SUP  0.53
+ 20 PHE  CB    143 ARG  CB      0.00 #SUP  0.09
+ 20 PHE  CB     84 LEU  CG      0.00 #SUP  0.02
+ 20 PHE  CB     69 ARG  CB      0.00 #SUP  0.02
+ 20 PHE  CB     79 ARG  CB      0.00 #SUP  0.02
+ 20 PHE  CB     28 PRO  CG      0.00 #SUP  0.02
+ 20 PHE  CB     67 LEU  CG      0.00 #SUP  0.02
+ 20 PHE  CB    115 ARG  CB      0.00 #SUP  0.02
+ 20 PHE  CB     38 LEU  CD1     0.00 #SUP  0.02
+ 20 PHE  CB    110 HIS  CB      0.00 #SUP  0.02
+ 20 PHE  CB     66 PRO  CG      0.00 #SUP  0.02
+ 20 PHE  CB    113 ILE  CG1     0.00 #SUP  0.02
+142 SER  CA    143 ARG  CB      4.66 #SUP  1.00
+110 HIS  CB    112 ILE  CA      0.00 #SUP  1.00
+110 HIS  CB    111 SER  CA      4.69 #SUP  1.00
+ 98 SER  CA     99 ILE  CG1     0.00 #SUP  0.75
+110 HIS  CB    123 ALA  CB      3.83 #SUP  0.94
+ 99 ILE  CG1   123 ALA  CB      0.00 #SUP  0.15
+ 75 LYS  CD    123 ALA  CB      0.00 #SUP  0.16
+ 74 PRO  CG    123 ALA  CB      0.00 #SUP  0.09
+106 LEU  CG    123 ALA  CB      0.00 #SUP  0.02
+144 LEU  CB    144 LEU  CG      2.40 #SUP  1.27
+ 75 LYS  CD     75 LYS  CE      0.00 #SUP  1.00
+ 74 PRO  CG     75 LYS  CE      0.00 #SUP  0.63
+ 75 LYS  CD     76 ASP  CB      0.00 #SUP  0.47
+ 75 LYS  CB     75 LYS  CD      2.40 #SUP  1.00
+ 74 PRO  CB     74 PRO  CG      0.00 #SUP  1.00
+ 74 PRO  CB     75 LYS  CD      0.00 #SUP  0.94
+ 74 PRO  CG     75 LYS  CB      0.00 #SUP  0.63
+144 LEU  CA    144 LEU  CG      2.59 #SUP  1.00
+ 74 PRO  CG    124 ASP  CA      0.00 #SUP  0.51
+ 18 ILE  CA     18 ILE  CG1     2.52 #SUP  1.81
+ 17 ILE  CA     18 ILE  CG1     4.09 #SUP  1.93
+117 LEU  CD1   118 VAL  CA      0.00 #SUP  1.62
+  2 THR  CA      3 LYS  CG      0.00 #SUP  0.24
+ 18 ILE  CB     18 ILE  CG1     2.40 #SUP  2.00
+117 LEU  CB    117 LEU  CD1     2.51 #SUP  3.73
+ 36 LYS  CA     36 LYS  CG      2.40 #SUP  1.00
+122 LYS  CA    122 LYS  CG      0.00 #SUP  1.00
+ 23 LYS  CB     23 LYS  CG      2.40 #SUP  1.00
+121 GLU  CB    122 LYS  CG      0.00 #SUP  0.99
+ 42 LEU  CG     42 LEU  CD1     2.40 #SUP  1.00
+ 58 THR  CA    122 LYS  CG      3.64 #SUP  1.36
+ 23 LYS  CG     58 THR  CA      0.00 #SUP  1.04
+ 36 LYS  CG     58 THR  CA      0.00 #SUP  0.53
+ 58 THR  CB    122 LYS  CG      3.75 #SUP  0.94
+ 23 LYS  CG     58 THR  CB      0.00 #SUP  0.62
+ 58 THR  CB    136 LYS  CG      0.00 #SUP  0.31
+ 36 LYS  CG     58 THR  CB      0.00 #SUP  0.17
+ 59 SER  CB    122 LYS  CG      3.46 #SUP  0.75
+ 23 LYS  CG     59 SER  CB      0.00 #SUP  0.62
+ 97 VAL  CA    122 LYS  CG      0.00 #SUP  0.02
+ 97 VAL  CA    136 LYS  CG      0.00 #SUP  0.02
+ 59 SER  CB    136 LYS  CG      0.00 #SUP  0.02
+ 36 LYS  CG     97 VAL  CA      0.00 #SUP  0.02
+ 36 LYS  CG     59 SER  CB      0.00 #SUP  0.02
+118 VAL  CA    122 LYS  CG      0.00 #SUP  0.02
+ 36 LYS  CB     36 LYS  CG      2.40 #SUP  1.27
+136 LYS  CG    136 LYS  CE      2.40 #SUP  1.00
+122 LYS  CG    122 LYS  CE      0.00 #SUP  1.00
+116 THR  CB    116 THR  CG2     2.40 #SUP  1.00
+136 LYS  CG    137 THR  CB      0.00 #SUP  0.25
+104 ILE  CA    104 ILE  CG1     2.40 #SUP  1.38
+116 THR  CA    116 THR  CG2     0.00 #SUP  1.00
+ 20 PHE  CB     91 LYS  CG      4.52 #SUP  1.07
+  8 LEU  CD1    20 PHE  CB      0.00 #SUP  0.48
+ 20 PHE  CB    104 ILE  CG1     0.00 #SUP  0.82
+ 20 PHE  CB     75 LYS  CG      0.00 #SUP  0.43
+  4 ALA  CB     20 PHE  CB      0.00 #SUP  0.12
+  6 ALA  CB     20 PHE  CB      0.00 #SUP  0.32
+ 20 PHE  CB    116 THR  CG2     0.00 #SUP  0.10
+ 20 PHE  CB     42 LEU  CD2     0.00 #SUP  0.02
+ 91 LYS  CB     91 LYS  CG      2.40 #SUP  1.00
+103 VAL  CB    104 ILE  CG1     0.00 #SUP  2.84
+  4 ALA  CB      5 VAL  CA      2.50 #SUP  1.22
+112 ILE  CA    112 ILE  CG1     0.00 #SUP  2.53
+  5 VAL  CA      6 ALA  CB      0.00 #SUP  1.00
+ 81 VAL  CA     81 VAL  CG1     2.52 #SUP  1.00
+112 ILE  CG1   137 THR  CB      3.41 #SUP  0.40
+ 81 VAL  CG1   137 THR  CB      0.00 #SUP  0.46
+103 VAL  CG1   137 THR  CB      0.00 #SUP  0.25
+ 81 VAL  CG1   116 THR  CB      0.00 #SUP  0.41
+  6 ALA  CB    137 THR  CB      0.00 #SUP  0.02
+ 75 LYS  CG    137 THR  CB      0.00 #SUP  0.02
+ 54 THR  CG2   137 THR  CB      0.00 #SUP  0.02
+ 91 LYS  CG    137 THR  CB      0.00 #SUP  0.02
+  2 THR  CB     81 VAL  CG1     3.90 #SUP  0.75
+  2 THR  CB    112 ILE  CG1     0.00 #SUP  0.02
+  2 THR  CB      6 ALA  CB      0.00 #SUP  0.02
+  2 THR  CB     75 LYS  CG      0.00 #SUP  0.02
+  2 THR  CB    103 VAL  CG1     0.00 #SUP  0.02
+  2 THR  CB     54 THR  CG2     0.00 #SUP  0.02
+  2 THR  CB     91 LYS  CG      0.00 #SUP  0.02
+  2 THR  CB      4 ALA  CB      0.00 #SUP  0.02
+  2 THR  CB     42 LEU  CD2     0.00 #SUP  0.02
+  2 THR  CB      8 LEU  CD1     0.00 #SUP  0.02
+  6 ALA  CB      7 VAL  CA      4.56 #SUP  1.00
+112 ILE  CG1   113 ILE  CA      0.00 #SUP  2.42
+112 ILE  CB    112 ILE  CG1     2.40 #SUP  1.68
+111 SER  CB    112 ILE  CG1     3.18 #SUP  1.08
+102 SER  CB    103 VAL  CG1     0.00 #SUP  1.44
+ 81 VAL  CG1   142 SER  CB      0.00 #SUP  0.02
+ 81 VAL  CG1   111 SER  CB      0.00 #SUP  0.02
+ 29 VAL  CG1   111 SER  CB      0.00 #SUP  0.09
+ 29 VAL  CG2   111 SER  CB      0.00 #SUP  0.09
+ 29 VAL  CG1   142 SER  CB      0.00 #SUP  0.09
+ 29 VAL  CG2   142 SER  CB      0.00 #SUP  0.09
+ 54 THR  CG2   111 SER  CB      0.00 #SUP  0.02
+ 54 THR  CG2   142 SER  CB      0.00 #SUP  0.02
+ 53 ASN  CA     81 VAL  CG1     3.71 #SUP  0.57
+ 29 VAL  CG1    53 ASN  CA      0.00 #SUP  1.74
+ 29 VAL  CG2    53 ASN  CA      0.00 #SUP  1.74
+ 29 VAL  CG1    65 ASN  CA      0.00 #SUP  0.55
+ 29 VAL  CG2    65 ASN  CA      0.00 #SUP  0.55
+ 29 VAL  CG1   145 ALA  CA      0.00 #SUP  0.70
+ 29 VAL  CG2   145 ALA  CA      0.00 #SUP  0.70
+ 29 VAL  CG2   101 ASP  CB      4.08 #SUP  1.54
+ 29 VAL  CG1   101 ASP  CB      0.00 #SUP  1.54
+ 29 VAL  CG1   146 CYS  CB      0.00 #SUP  0.69
+ 29 VAL  CG2   146 CYS  CB      0.00 #SUP  0.69
+101 ASP  CB    117 LEU  CD2     0.00 #SUP  0.37
+101 ASP  CB    117 LEU  CG      0.00 #SUP  0.37
+101 ASP  CB    112 ILE  CG1     0.00 #SUP  0.35
+ 29 VAL  CG2    30 LYS  CB      3.03 #SUP  2.51
+ 29 VAL  CG1    30 LYS  CB      0.00 #SUP  2.51
+ 30 LYS  CB     67 LEU  CD2     0.00 #SUP  0.42
+ 29 VAL  CA     29 VAL  CG1     2.40 #SUP  1.84
+ 29 VAL  CA     29 VAL  CG2     0.00 #SUP  1.84
+ 29 VAL  CG1    31 VAL  CA      0.00 #SUP  0.91
+ 29 VAL  CG2    31 VAL  CA      0.00 #SUP  0.91
+117 LEU  CB    117 LEU  CG      2.40 #SUP  2.81
+117 LEU  CB    117 LEU  CD2     0.00 #SUP  2.81
+ 38 LEU  CD2    65 ASN  CB      4.26 #SUP  0.72
+ 29 VAL  CG1    53 ASN  CB      0.00 #SUP  1.15
+ 29 VAL  CG2    53 ASN  CB      0.00 #SUP  1.15
+ 39 THR  CG2    65 ASN  CB      0.00 #SUP  0.24
+ 65 ASN  CB     67 LEU  CD2     0.00 #SUP  0.15
+ 65 ASN  CB    145 ALA  CB      0.00 #SUP  0.25
+ 18 ILE  CG2    29 VAL  CG2     4.27 #SUP  2.11
+ 18 ILE  CG2    29 VAL  CG1     0.00 #SUP  2.11
+ 18 ILE  CG2   117 LEU  CG      0.00 #SUP  0.32
+ 18 ILE  CG2   117 LEU  CD2     0.00 #SUP  0.32
+ 40 GLU  CA    117 LEU  CG      4.45 #SUP  0.55
+ 40 GLU  CA    117 LEU  CD2     0.00 #SUP  0.55
+ 39 THR  CG2    40 GLU  CA      0.00 #SUP  0.24
+ 38 LEU  CD2    40 GLU  CA      0.00 #SUP  0.12
+117 LEU  CA    117 LEU  CG      2.52 #SUP  1.93
+117 LEU  CA    117 LEU  CD2     0.00 #SUP  1.93
+ 38 LEU  CA     38 LEU  CD2     0.00 #SUP  1.36
+ 38 LEU  CA     39 THR  CG2     0.00 #SUP  0.99
+ 39 THR  CG2    66 PRO  CD      5.00 #SUP  0.71
+ 66 PRO  CD     67 LEU  CD2     0.00 #SUP  0.67
+ 38 LEU  CD2    66 PRO  CD      0.00 #SUP  0.08
+ 66 PRO  CD    145 ALA  CB      0.00 #SUP  0.02
+ 14 VAL  CG1    66 PRO  CD      0.00 #SUP  0.02
+ 84 LEU  CA     84 LEU  CD2     3.44 #SUP  1.00
+ 67 LEU  CA     67 LEU  CD2     0.00 #SUP  1.00
+143 ARG  CA    145 ALA  CB      0.00 #SUP  0.82
+145 ALA  CA    145 ALA  CB      2.40 #SUP  1.00
+ 65 ASN  CA     67 LEU  CD2     0.00 #SUP  2.11
+ 39 THR  CG2    65 ASN  CA      0.00 #SUP  0.66
+ 65 ASN  CA    145 ALA  CB      0.00 #SUP  0.25
+144 LEU  CD1   145 ALA  CB      3.75 #SUP  0.32
+ 84 LEU  CD2    91 LYS  CD      0.00 #SUP  0.02
+ 91 LYS  CD    145 ALA  CB      0.00 #SUP  0.02
+ 84 LEU  CD2   144 LEU  CD1     0.00 #SUP  0.02
+ 17 ILE  CG1    84 LEU  CD2     0.00 #SUP  0.02
+ 17 ILE  CG1   145 ALA  CB      0.00 #SUP  0.02
+ 17 ILE  CG1   117 LEU  CD2     0.00 #SUP  0.10
+ 17 ILE  CG1   117 LEU  CG      0.00 #SUP  0.10
+ 91 LYS  CD    119 VAL  CG1     0.00 #SUP  0.02
+ 39 THR  CG2    91 LYS  CD      0.00 #SUP  0.02
+ 84 LEU  CD2   136 LYS  CD      0.00 #SUP  0.02
+ 91 LYS  CD    118 VAL  CG1     0.00 #SUP  0.02
+119 VAL  CG1   144 LEU  CD1     0.00 #SUP  0.02
+ 39 THR  CG2   144 LEU  CD1     0.00 #SUP  0.02
+ 88 THR  CG2    91 LYS  CD      0.00 #SUP  0.02
+  2 THR  CG2    91 LYS  CD      0.00 #SUP  0.02
+136 LYS  CD    145 ALA  CB      0.00 #SUP  0.02
+118 VAL  CG1   144 LEU  CD1     0.00 #SUP  0.02
+ 17 ILE  CG1   119 VAL  CG1     0.00 #SUP  0.02
+ 67 LEU  CD2    91 LYS  CD      0.00 #SUP  0.02
+ 84 LEU  CB     84 LEU  CD2     2.51 #SUP  1.00
+144 LEU  CB    145 ALA  CB      0.00 #SUP  1.28
+118 VAL  CA    118 VAL  CG1     2.40 #SUP  1.57
+  2 THR  CA      2 THR  CG2     0.00 #SUP  1.00
+118 VAL  CA    119 VAL  CG1     0.00 #SUP  1.60
+ 45 PHE  CA     58 THR  CG2     4.98 #SUP  0.67
+ 18 ILE  CA     58 THR  CG2     0.00 #SUP  0.58
+ 34 SER  CA    119 VAL  CG1     0.00 #SUP  0.02
+ 34 SER  CA    118 VAL  CG1     0.00 #SUP  0.02
+  2 THR  CG2    34 SER  CA      0.00 #SUP  0.02
+ 34 SER  CA     88 THR  CG2     0.00 #SUP  0.02
+ 34 SER  CA     58 THR  CG2     0.00 #SUP  0.02
+ 34 SER  CA    152 ALA  CB      0.00 #SUP  0.02
+ 45 PHE  CA    119 VAL  CG1     0.00 #SUP  0.02
+ 45 PHE  CA    118 VAL  CG1     0.00 #SUP  0.02
+  2 THR  CG2    45 PHE  CA      0.00 #SUP  0.02
+ 45 PHE  CA     88 THR  CG2     0.00 #SUP  0.02
+ 45 PHE  CA    152 ALA  CB      0.00 #SUP  0.02
+  5 VAL  CG1    34 SER  CA      0.00 #SUP  0.02
+ 34 SER  CA    103 VAL  CG2     0.00 #SUP  0.02
+118 VAL  CB    118 VAL  CG1     2.40 #SUP  1.31
+119 VAL  CB    119 VAL  CG1     0.00 #SUP  1.00
+118 VAL  CG1   119 VAL  CB      0.00 #SUP  1.95
+118 VAL  CB    119 VAL  CG1     0.00 #SUP  1.82
+151 ILE  CA    152 ALA  CB      4.58 #SUP  1.00
+102 SER  CB    103 VAL  CG2     0.00 #SUP  1.73
+  5 VAL  CA      5 VAL  CG1     2.52 #SUP  1.60
+ 43 HIS  CA    135 THR  CG2     3.55 #SUP  0.20
+ 14 VAL  CG2    43 HIS  CA      0.00 #SUP  0.02
+ 43 HIS  CA    103 VAL  CG2     0.00 #SUP  0.02
+  5 VAL  CG1    43 HIS  CA      0.00 #SUP  0.02
+ 43 HIS  CA     87 VAL  CG1     0.00 #SUP  0.02
+ 43 HIS  CA    152 ALA  CB      0.00 #SUP  0.02
+ 43 HIS  CA     58 THR  CG2     0.00 #SUP  0.02
+ 43 HIS  CA     81 VAL  CG2     0.00 #SUP  0.02
+  2 THR  CG2    43 HIS  CA      0.00 #SUP  0.02
+ 43 HIS  CA     88 THR  CG2     0.00 #SUP  0.02
+ 43 HIS  CA    118 VAL  CG1     0.00 #SUP  0.02
+ 53 ASN  CA    135 THR  CG2     3.52 #SUP  0.72
+ 14 VAL  CG2    53 ASN  CA      0.00 #SUP  0.43
+ 53 ASN  CA     87 VAL  CG1     0.00 #SUP  0.02
+ 66 PRO  CA    137 THR  CG2     4.05 #SUP  0.88
+111 SER  CB    137 THR  CG2     0.00 #SUP  0.41
+  7 VAL  CG1    66 PRO  CA      0.00 #SUP  0.14
+ 25 SER  CB     31 VAL  CG1     0.00 #SUP  0.11
+ 31 VAL  CG1   142 SER  CB      0.00 #SUP  0.09
+ 31 VAL  CG1   111 SER  CB      0.00 #SUP  0.09
+ 25 SER  CB    126 LEU  CD2     0.00 #SUP  0.02
+ 25 SER  CB     97 VAL  CG1     0.00 #SUP  0.02
+  7 VAL  CG1    25 SER  CB      0.00 #SUP  0.02
+ 66 PRO  CA    126 LEU  CD2     0.00 #SUP  0.02
+ 66 PRO  CA     97 VAL  CG1     0.00 #SUP  0.02
+ 25 SER  CB    137 THR  CG2     0.00 #SUP  0.02
+111 SER  CB    126 LEU  CD2     0.00 #SUP  0.02
+126 LEU  CD2   142 SER  CB      0.00 #SUP  0.02
+ 97 VAL  CG1   111 SER  CB      0.00 #SUP  0.02
+ 97 VAL  CG1   142 SER  CB      0.00 #SUP  0.02
+ 88 THR  CA     89 ALA  CB      2.40 #SUP  1.00
+ 94 VAL  CA     95 ALA  CB      0.00 #SUP  1.00
+ 94 VAL  CA     94 VAL  CG2     0.00 #SUP  1.00
+  7 VAL  CA      7 VAL  CG2     0.00 #SUP  1.00
+ 20 PHE  CB     95 ALA  CB      3.51 #SUP  0.89
+ 20 PHE  CB     94 VAL  CG2     0.00 #SUP  0.62
+  7 VAL  CG2    20 PHE  CB      0.00 #SUP  0.29
+ 20 PHE  CB    144 LEU  CD2     0.00 #SUP  0.28
+ 20 PHE  CB     89 ALA  CB      0.00 #SUP  0.10
+  6 ALA  CB      7 VAL  CG2     4.33 #SUP  1.00
+ 89 ALA  CB     91 LYS  CG      0.00 #SUP  0.24
+ 81 VAL  CG1    94 VAL  CG2     0.00 #SUP  0.02
+  7 VAL  CG2    81 VAL  CG1     0.00 #SUP  0.02
+ 31 VAL  CG2    81 VAL  CG1     0.00 #SUP  0.02
+ 81 VAL  CG1    95 ALA  CB      0.00 #SUP  0.02
+ 81 VAL  CG1    89 ALA  CB      0.00 #SUP  0.02
+  7 VAL  CG2    54 THR  CG2     0.00 #SUP  0.02
+ 54 THR  CG2    94 VAL  CG2     0.00 #SUP  0.02
+ 31 VAL  CG2    54 THR  CG2     0.00 #SUP  0.02
+ 54 THR  CG2    95 ALA  CB      0.00 #SUP  0.02
+ 54 THR  CG2    89 ALA  CB      0.00 #SUP  0.02
+  7 VAL  CG2   103 VAL  CG1     0.00 #SUP  0.02
+ 94 VAL  CG2   103 VAL  CG1     0.00 #SUP  0.02
+123 ALA  CB    151 ILE  CG2     4.71 #SUP  1.50
+  7 VAL  CG2   151 ILE  CG2     0.00 #SUP  0.14
+123 ALA  CB    151 ILE  CA      3.36 #SUP  1.50
+ 74 PRO  CA    123 ALA  CB      0.00 #SUP  0.60
+ 98 SER  CB    123 ALA  CB      0.00 #SUP  0.08
+111 SER  CA    123 ALA  CB      3.48 #SUP  1.90
+ 98 SER  CA    123 ALA  CB      0.00 #SUP  1.22
+ 40 GLU  CA    123 ALA  CB      0.00 #SUP  0.50
+ 59 SER  CA    123 ALA  CB      0.00 #SUP  0.35
+123 ALA  CB    125 ASP  CB      3.28 #SUP  0.75
+109 ASP  CB    123 ALA  CB      0.00 #SUP  0.66
+ 64 PHE  CB    123 ALA  CB      0.00 #SUP  0.14
+ 65 ASN  CB    123 ALA  CB      0.00 #SUP  0.02
+123 ALA  CB    151 ILE  CG1     3.53 #SUP  1.50
+ 40 GLU  CB    123 ALA  CB      0.00 #SUP  0.67
+123 ALA  CB    153 GLN  CB      0.00 #SUP  0.49
+110 HIS  CB    123 ALA  CB      3.79 #SUP  0.94
+ 99 ILE  CG1   123 ALA  CB      0.00 #SUP  0.15
+ 75 LYS  CD    123 ALA  CB      0.00 #SUP  0.16
+ 74 PRO  CG    123 ALA  CB      0.00 #SUP  0.09
+106 LEU  CG    123 ALA  CB      0.00 #SUP  0.02
+123 ALA  CB    144 LEU  CG      0.00 #SUP  0.02
+ 26 ASN  CB    113 ILE  CG2     3.46 #SUP  0.46
+ 26 ASN  CB     60 ALA  CB      0.00 #SUP  0.34
+ 26 ASN  CB     35 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB     60 ALA  CB      0.00 #SUP  0.02
+ 18 ILE  CB    113 ILE  CG2     0.00 #SUP  0.02
+ 26 ASN  CB    104 ILE  CG2     0.00 #SUP  0.02
+ 26 ASN  CB    149 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB     35 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB    104 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CB    149 ILE  CG2     0.00 #SUP  0.02
+ 21 GLU  CA     35 ILE  CG2     4.98 #SUP  0.53
+ 21 GLU  CA    149 ILE  CG2     0.00 #SUP  0.63
+ 21 GLU  CA    104 ILE  CG2     0.00 #SUP  0.53
+ 18 ILE  CA     60 ALA  CB      0.00 #SUP  0.02
+ 18 ILE  CA    113 ILE  CG2     0.00 #SUP  0.02
+ 45 PHE  CA     60 ALA  CB      0.00 #SUP  0.02
+ 45 PHE  CA    113 ILE  CG2     0.00 #SUP  0.02
+ 50 PHE  CA     60 ALA  CB      0.00 #SUP  0.02
+ 50 PHE  CA    113 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CA     35 ILE  CG2     0.00 #SUP  0.02
+ 35 ILE  CG2    45 PHE  CA      0.00 #SUP  0.02
+ 18 ILE  CA    104 ILE  CG2     0.00 #SUP  0.02
+ 45 PHE  CA    104 ILE  CG2     0.00 #SUP  0.02
+ 35 ILE  CG2    50 PHE  CA      0.00 #SUP  0.02
+ 50 PHE  CA    104 ILE  CG2     0.00 #SUP  0.02
+ 60 ALA  CB     64 PHE  CA      0.00 #SUP  0.02
+ 64 PHE  CA    113 ILE  CG2     0.00 #SUP  0.02
+ 18 ILE  CA    149 ILE  CG2     0.00 #SUP  0.02
+103 VAL  CA    104 ILE  CG2     3.80 #SUP  2.66
+ 35 ILE  CG2   103 VAL  CA      0.00 #SUP  1.21
+103 VAL  CA    149 ILE  CG2     0.00 #SUP  0.50
+  5 VAL  CG2   103 VAL  CA      0.00 #SUP  0.21
+104 ILE  CA    104 ILE  CG2     2.40 #SUP  3.77
+149 ILE  CA    149 ILE  CG2     0.00 #SUP  2.96
+148 VAL  CA    149 ILE  CG2     0.00 #SUP  2.61
+113 ILE  CA    113 ILE  CG2     2.51 #SUP  1.00
+ 99 ILE  CB    104 ILE  CG2     4.87 #SUP  0.86
+ 38 LEU  CB    104 ILE  CG2     0.00 #SUP  0.98
+ 60 ALA  CB     99 ILE  CB      0.00 #SUP  0.37
+ 20 PHE  CB     35 ILE  CG2     3.61 #SUP  1.07
+ 20 PHE  CB    149 ILE  CG2     0.00 #SUP  0.93
+ 20 PHE  CB    104 ILE  CG2     0.00 #SUP  0.57
+ 20 PHE  CB     60 ALA  CB      0.00 #SUP  0.27
+ 20 PHE  CB    113 ILE  CG2     0.00 #SUP  0.27
+  5 VAL  CG2    20 PHE  CB      0.00 #SUP  0.09
+ 35 ILE  CB     35 ILE  CG2     2.40 #SUP  1.11
+103 VAL  CB    104 ILE  CG2     4.21 #SUP  3.06
+ 35 ILE  CG2   103 VAL  CB      0.00 #SUP  1.02
+103 VAL  CB    149 ILE  CG2     0.00 #SUP  0.24
+ 18 ILE  CG2    30 LYS  CB      3.74 #SUP  2.43
+ 18 ILE  CG2    29 VAL  CG2     4.30 #SUP  2.11
+ 18 ILE  CG2    29 VAL  CG1     0.00 #SUP  2.11
+ 18 ILE  CG2   117 LEU  CD2     0.00 #SUP  0.32
+ 18 ILE  CG2   117 LEU  CG      0.00 #SUP  0.32
+ 18 ILE  CG2    29 VAL  CA      3.80 #SUP  1.97
+ 18 ILE  CG2    31 VAL  CA      0.00 #SUP  0.75
+103 VAL  CA    104 ILE  CD1     4.49 #SUP  1.66
+ 35 ILE  CD1   103 VAL  CA      0.00 #SUP  1.20
+103 VAL  CA    149 ILE  CD1     0.00 #SUP  0.74
+ 34 SER  CB     35 ILE  CD1     0.00 #SUP  1.63
+ 99 ILE  CD1   103 VAL  CA      0.00 #SUP  0.39
+ 35 ILE  CB     35 ILE  CD1     2.40 #SUP  1.20
+ 17 ILE  CB     17 ILE  CD1     0.00 #SUP  1.00
+103 VAL  CB    104 ILE  CD1     3.46 #SUP  2.11
+ 35 ILE  CD1   103 VAL  CB      0.00 #SUP  1.04
+104 ILE  CG2   104 ILE  CD1     3.19 #SUP  2.44
+149 ILE  CG2   149 ILE  CD1     0.00 #SUP  1.50
+ 35 ILE  CG2    35 ILE  CD1     0.00 #SUP  1.23
+149 ILE  CG1   151 ILE  CG2     4.55 #SUP  0.75
+  9 LYS  CD    151 ILE  CG2     0.00 #SUP  0.84
+  8 LEU  CG    151 ILE  CG2     0.00 #SUP  0.42
+ 77 GLU  CB    151 ILE  CG2     0.00 #SUP  0.32
+123 ALA  CB    151 ILE  CG2     4.80 #SUP  1.50
+  7 VAL  CG2   151 ILE  CG2     0.00 #SUP  0.14
+  9 LYS  CB    151 ILE  CG2     4.49 #SUP  0.75
+149 ILE  CB    151 ILE  CG2     0.00 #SUP  0.74
+ 78 GLU  CG    151 ILE  CG2     0.00 #SUP  0.08
+ 77 GLU  CG    151 ILE  CG2     0.00 #SUP  0.08
+  3 LYS  CB    151 ILE  CG2     0.00 #SUP  0.02
+100 GLU  CG    151 ILE  CG2     0.00 #SUP  0.02

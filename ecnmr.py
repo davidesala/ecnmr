@@ -40,10 +40,10 @@ def main():
 
     results = parser.parse_args()
     totalec = reduce(lambda s, a: open(a, "r").readlines() + s, results.ecfile, [])
-    MINDIST = results.dist_value
-    MINPROB = results.prob_value
+    MINDIST = float(results.dist_value)
+    MINPROB = float(results.prob_value)
     cadiz = get_CA_coord(open(results.pdbfile, "r").readlines())
-    dizec = filtering(totalec, cadiz, MINDIST, MINPROB)
+    dizec = filtering(filter_input(totalec), cadiz, MINDIST, MINPROB)
     dizecg = formatting(open(results.cyanafile, "r").readlines(), dizec)
     sasa(open(results.naccessfile, "r").readlines(), dizecg)
 
@@ -78,6 +78,7 @@ def create_diz1RES(diz1RES, a, distca, mindist, minprob):
                 diz1RES[keys]["prob"] = float(raw[4])
 
             elif len(raw) == 7:
+                print raw
                 diz1RES[keys]["prob"] = float(raw[6])
 
         else:
@@ -92,13 +93,17 @@ def create_diz1RES(diz1RES, a, distca, mindist, minprob):
         if distca.has_key(int(raw[0].strip())) and distca.has_key(int(raw[1].strip())):
             dist1 = np.fromstring(distca[int(raw[0].strip())], dtype=float, sep=' ')
             dist2 = np.fromstring(distca[int(raw[1].strip())], dtype=float, sep=' ')
-            distp = np.sqrt(np.sum((dist1 - dist2) ** 2))
+            distp = np.around(np.sqrt(np.sum((dist1 - dist2) ** 2)), decimals=1)
             diz1RES[keys]["dist"] = distp
 
         else:
             del diz1RES[keys]
 
         if diz1RES.has_key(keys):
+            if diz1RES[keys]["dist"] > mindist and "50   113" in keys:
+                print "-------------"
+                print keys, diz1RES[keys]
+                print "-------------"
             if diz1RES[keys]["dist"] < mindist or diz1RES[keys]["prob"] < minprob:
                 del diz1RES[keys]
 
