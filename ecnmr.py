@@ -101,10 +101,6 @@ def create_diz1RES(diz1RES, a, distca, mindist, minprob):
             del diz1RES[keys]
 
         if diz1RES.has_key(keys):
-            if diz1RES[keys]["dist"] > mindist and "50   113" in keys:
-                print "-------------"
-                print keys, diz1RES[keys]
-                print "-------------"
             if diz1RES[keys]["dist"] < mindist or diz1RES[keys]["prob"] < minprob:
                 del diz1RES[keys]
 
