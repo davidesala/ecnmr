@@ -64,20 +64,20 @@ less than a minute
 ## Instructions for use on your data
 To run the script on your data 
 ```
-python ecnmr.py [-h] -m PDBFILE -l ECFILE -e CYANAFILE -s NACCESSFILE [-d DIST_VALUE] [-p PROB_VALUE]
+python ecnmr.py [-h] -m PDBFILE -l ECFILE -e CYANAFILE -s NACCESSFILE (rsa format) [-d DIST_VALUE] [-p PROB_VALUE]
 ```
 ## Reproduction instructions
 To reproduce the results reported in the manuscript on the L-asparaginase II type
 ```
-python ecnmr.py -m '6EOK.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon.rr.txt' -l 'respre.rr.txt' -e 'cyana_ss.upl' -s '6EOK.rsa' -d 10.0 -p 0.3
+python ecnmr.py -m '6EOK.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'respre.rr.txt' -e 'cyana_ss.upl' -s '6EOK.rsa' -d 12.0 -p 0.25
 ```
 To reproduce the results reported in the manuscript on the Sod1 (run1) type
 ```
-python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon.rr.txt' -l 'respre.rr.txt' -e 'cyana_ss.upl' -s '3ECU.rsa' -d 10.0 -p 0.3
+python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'respre.rr.txt' -e 'cyana_ss.upl' -s '3ECU.rsa' -d 12.0 -p 0.25
 ```
 To reproduce the results reported in the manuscript on the Sod1 (run2) type 
 ```
-python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'nebcon.rr.txt' -l 'respre.rr.txt' -e 'cyana_sol.upl' -s '3ECU.rsa' -d 13.0 -p 0.3
+python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'respre.rr.txt' -e 'cyana_sol.upl' -s '3ECU.rsa' -d 12.0 -p 0.3
 ```
 # Ecnmr protocol
 ![Ecnmr protocol](https://github.com/davidesala/ecnmr/blob/master/protocol.png)
