@@ -80,7 +80,7 @@ To reproduce the results reported in the manuscript on the Sod1 (run2) type
 python ecnmr.py -m '3ECU.pdb' -l 'gremlin.rr.txt' -l 'raptorx.rr.txt' -l 'respre.rr.txt' -e 'cyana_sol.upl' -s '3ECU.rsa' -d 12.0 -p 0.3
 ```
 # Ecnmr protocol
-![Ecnmr protocol](https://github.com/davidesala/ecnmr/blob/master/protocol.png)
+![Ecnmr protocol](https://github.com/davidesala/ecnmr/blob/master/Framework.tiff)
 
 # License
 
