@@ -33,10 +33,10 @@ def main():
     parser.add_argument('-s', '--solvent', action='store', dest='naccessfile', required=True,
                         help='Naccess rsa file')
 
-    parser.add_argument('-d', '--distance', action='store', dest='dist_value', type=float, default=10.0,
+    parser.add_argument('-d', '--distance', action='store', dest='dist_value', type=float, default=12.0,
                         help='Distance cutoff')
 
-    parser.add_argument('-p', '--prob', action='store', dest='prob_value', type=float, default=0.3,
+    parser.add_argument('-p', '--prob', action='store', dest='prob_value', type=float, default=0.2,
                         help='Probability cutoff')
 
     results = parser.parse_args()
